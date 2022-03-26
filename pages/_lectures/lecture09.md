@@ -4,7 +4,7 @@ title: Practice manipulating the DOM with JavaScript
 type: lecture
 draft: 0
 num: 9
-due_date: 2021-04-26
+due_date: 2022-04-25
 exercise_url: lecture09.zip
 slides:
    - url: https://docs.google.com/presentation/d/1mbtOsPTkWoW38JEhyT1DLjSpsL3SiR8hnuVvPPVD3T0/edit?usp=sharing

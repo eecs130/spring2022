@@ -6,11 +6,11 @@ abbreviation: Tutorial 3
 draft: 0
 num: 3
 points: 2.5
-due_date: 2021-04-16
+due_date: 2022-04-15
 description: 
     - Practice with CSS Grid
 ---
-<a href="/spring2021/course-files/tutorials/tutorial03.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/spring2022/course-files/tutorials/tutorial03.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 CSS is notoriously a nightmare -- particularly when it comes to layouts. As an effort to provide some guidance re: using some more modern techniques for layout, the course staff and I have created a basic CSS tutorial, where multiple layouts can be easily supported using CSS Grid -- the latest in a long line of strategies for simplifying layouts.
 
@@ -22,7 +22,7 @@ There are many different ways to use CSS grid to make a layout. In this tutorial
 1. Naming the regions of your grid using the `grid-template-areas` property.
 1. Assigning different elements to different regions of your grid using the `grid-area` property. 
 1. Creating margins in your grid using the `grid-row-gap` and `grid-column-gap` properties.
-1. Scaling your columns flexibly using "fractional units" (fr). For more info on the `fr` unit, see the [CSS units page](/spring2021/css-reference/units/).
+1. Scaling your columns flexibly using "fractional units" (fr). For more info on the `fr` unit, see the [CSS units page](/spring2022/css-reference/units/).
 
 For instance, the following code uses these properties to generate the layout pictured right:
 

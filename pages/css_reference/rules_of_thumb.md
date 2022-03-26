@@ -21,7 +21,7 @@ In addition, all CSS files must have the `.css` file extension.
 ### 2. Know the anatomy of a style block
 The image below diagrams a CSS **rule set**. Each **rule set** consists of a **selector**, followed by one or more **declarations**, and each **declaration** is made up of a **property** and a **value**, followed by a semicolon.
 
-![](/spring2021/assets/images/selector-schematic.gif)<br>
+![](/spring2022/assets/images/selector-schematic.gif)<br>
 Image Source: [W3Schools](http://www.w3schools.com/css/css_syntax.asp)
 
 | -- | -- |

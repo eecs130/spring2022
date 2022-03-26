@@ -4,14 +4,14 @@ title: Music Player
 type: tutorial
 abbreviation: Tutorial 6
 draft: 0
-due_date: 2021-05-07
+due_date: 2022-05-06
 num: 6
 points: 2.5
 description:
     - Functions and Event Handlers
 ---
 
-<a href="/spring2021/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/spring2021/course-files/tutorials/tutorial06-solutions.zip" class="button">Solutions<i class="fas fa-download"></i></a> 
+<a href="/spring2022/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/spring2022/course-files/tutorials/tutorial06-solutions.zip" class="button">Solutions<i class="fas fa-download"></i></a> 
 
 Today you will be writing the code that allows you to view and listen to samples of songs by Bob Dylan. Specifically, you will:
 
@@ -47,7 +47,7 @@ Write some code that iterates through every item in your tracks list and outputs
 ### 2. Modify the playSong() event handler
 Modify the `playSong()` event handler so that it loads in the track associated with the album that has just been clicked. If you were successful, it should look like this (but don't view the source of the example just yet!):
 
-* <a href="https://vanwars.github.io/cs130-spring2021/tutorial06/index.html" target="_blank">Tutorial 6 Demo</a>
+* <a href="https://vanwars.github.io/cs130-spring2022/tutorial06/index.html" target="_blank">Tutorial 6 Demo</a>
 
 #### Hints
 * Hint 1: How can you make use of the "data-index" attribute to access the corresponding `preview_url` from the original `tracks` list? 

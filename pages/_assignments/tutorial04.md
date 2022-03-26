@@ -6,7 +6,7 @@ abbreviation: Tutorial 4
 draft: 0
 num: 4
 points: 2.5
-due_date: 2021-04-23
+due_date: 2022-04-22
 
 ---
 
@@ -125,12 +125,12 @@ $ git push
 
 Then, wait about a minute and access your GitHub pages website link. You should see the homepage you just created online.
 
-<img src="/spring2021/assets/images/tutorials/tutorial04a.png">
+<img src="/spring2022/assets/images/tutorials/tutorial04a.png">
 
 ## Step 2: Link to your work
 Next, add in links to tutorials #1 and #3, and homework #1 using **relative paths**. For instance, mine looks like this:
 
-* <a href="https://vanwars.github.io/cs130-spring2021/" target="_blank">Sarah's Demo Homepage</a>
+* <a href="https://vanwars.github.io/cs130-spring2022/" target="_blank">Sarah's Demo Homepage</a>
 
 Feel free to do it your way! When you're done, commit your changes and push to GitHub:
 
@@ -147,9 +147,9 @@ Then, wait about a minute and go check out your changes on GitHub pages.
 Using this <a href="https://docs.google.com/document/d/1Vv5tPZ8UjqJNYO9pCp_PQhxHT8qoGY09deKX6uygUFA/edit?usp=sharing" target="_blank">list of values</a>, select 3 that best describe the values that you want to communicate about yourself and your work.
 
 ### 2. Search for inspiration
-The best way to learn how to design is to look at great designs! Go out to the internet and find 5-10 web pages, images, advertisements, banners, etc. that you think look great! Take a look at the [Design Resources page](/spring2021/design-reference/) to find some design websites.
+The best way to learn how to design is to look at great designs! Go out to the internet and find 5-10 web pages, images, advertisements, banners, etc. that you think look great! Take a look at the [Design Resources page](/spring2022/design-reference/) to find some design websites.
 
-Add the links that you found to the "inspiration" section of your homepage (like the <a href="https://vanwars.github.io/cs130-spring2021/" target="_blank">example</a>). How might you use the techniques used in the examples you found (e.g. alignment, contrast, proximity, color, typography, textures, images, etc.) to communicate *your* values?
+Add the links that you found to the "inspiration" section of your homepage (like the <a href="https://vanwars.github.io/cs130-spring2022/" target="_blank">example</a>). How might you use the techniques used in the examples you found (e.g. alignment, contrast, proximity, color, typography, textures, images, etc.) to communicate *your* values?
 
 ## Step 4: Style it!
 1. Update the fonts: select (and apply) a header and a body copy font from <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>. Here is some <a href="https://codepen.io/vanwars/pen/gOpryzO?editors=0100" target="_blank">sample code</a> of how to use Google Fonts. Ensure that your fonts are complementary and that they match the values / theme of the website.
@@ -169,7 +169,7 @@ Add the links that you found to the "inspiration" section of your homepage (like
 >    * [fonts]({{ site.baseurl }}/css-reference/fonts/)
 
 ## Checklist
-Please make sure that you have completed the following (see the <a href="https://vanwars.github.io/cs130-spring2021/" target="_blank">example</a>, except you will add styling):
+Please make sure that you have completed the following (see the <a href="https://vanwars.github.io/cs130-spring2022/" target="_blank">example</a>, except you will add styling):
 
 {:.checkbox-list}
 * Added a link to Lab 1

@@ -4,7 +4,7 @@ title: Domain Names & Analytics
 type: lecture
 draft: 0
 num: 20
-due_date: 2021-06-02
+due_date: 2022-06-01
 slides:
    - url: https://docs.google.com/presentation/d/1MPct4z4O_WgtxUtfbVTxeNVj9qgv5dSXLMqhchnhP44/edit?usp=sharing
      title: "Domain Names & Analytics"

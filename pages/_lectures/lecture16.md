@@ -4,7 +4,7 @@ title: Integrating Third-Party UI Components
 type: lecture
 draft: 0
 num: 16
-due_date: 2021-05-19
+due_date: 2022-05-18
 exercise_url: lecture16.zip
 slides:
    - title: Integrating Third-Party UI Components

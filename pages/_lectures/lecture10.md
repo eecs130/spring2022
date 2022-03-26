@@ -4,7 +4,7 @@ title: Building blocks of programming
 type: lecture
 draft: 0
 num: 10
-due_date: 2021-04-28
+due_date: 2022-04-27
 exercise_url: lecture10.zip
 slides:
    - url: https://docs.google.com/presentation/d/1FF0ieZHAVOSZoPrGPr0XU3AAzg8QBYGM2hRRuGNGF58/edit?usp=sharing

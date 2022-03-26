@@ -5,7 +5,7 @@ type: lecture
 draft: 0
 num: 6
 
-due_date: 2021-04-14
+due_date: 2022-04-13
 slides:
    - url: https://docs.google.com/presentation/d/19l4BAU2Elt_RcclURDUSjjVJ5-CxY9NOo4wEIPX-UlA/edit?usp=sharing
      title: Composition & CSS Layouts Continued

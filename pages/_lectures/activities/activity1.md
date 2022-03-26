@@ -15,6 +15,6 @@ Open this the CodePen: <a href="https://codepen.io/vanwars/pen/WWRqRY?editors=01
 Inspiration: <a href="https://ryanstutorials.net/css-tutorial/css-selectors.php#activities" target="_blank">https://ryanstutorials.net/css-tutorial/css-selectors.php#activities</a> 
 
 ### One Possible Solution
-<img class="frame" src="/spring2021/assets/images/lectures/activity1.gif">
+<img class="frame" src="/spring2022/assets/images/lectures/activity1.gif">
 <br>
 <a class="nu-button" style="display: inline-block;margin-top: 20px;" href="https://codepen.io/vanwars/pen/QPpqLd?editors=0100" target="_blank">Code <i class="fas fa-external-link-alt"></i></a>

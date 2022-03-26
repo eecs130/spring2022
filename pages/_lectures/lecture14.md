@@ -4,7 +4,7 @@ title: "Working with Data: AJAX & Web APIs (Part 2)"
 type: lecture
 draft: 0
 num: 14
-due_date: 2021-05-12
+due_date: 2022-05-11
 exercise_url: lecture14.zip
 slides:
    - title: Working with Web Services

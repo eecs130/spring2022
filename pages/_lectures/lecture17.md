@@ -4,7 +4,7 @@ title: Data Visualization
 type: lecture
 draft: 0
 num: 17
-due_date: 2021-05-24
+due_date: 2022-05-23
 exercise_url: lecture17.zip
 slides:
    - title: Data Visualization

@@ -4,7 +4,7 @@ title: Spotify Activity
 type: lecture
 draft: 0
 num: 15
-due_date: 2021-05-17
+due_date: 2022-05-16
 slides:
    - title: Announcements
      url: https://docs.google.com/presentation/d/1hb_X-j6bOnPBplVn0WgO-AMNyQBtEOpf9LhhO4Wfb6g/edit?usp=sharing

@@ -14,7 +14,7 @@ permalink: /html-reference/links/
 ## 1. Navigating Relative File Paths
 Given the image below, the following relative paths are from the perspective of the index.html file.
 
-![](/spring2021/assets/images/file_paths.png)
+![](/spring2022/assets/images/file_paths.png)
 ```shell
 ../test.html # go up one directory and access the test.html file
 ../files/blah.html # go up one directory and then into the files directory, and access the blah.html file
@@ -22,7 +22,7 @@ Given the image below, the following relative paths are from the perspective of 
 styles/my_style.css # go into the styles directory and access the my_style.css file
 styles/dark/new.css # go into the styles directory, then into the dark directory, and access the new.css file
 ```
-<a href="/spring2021/assets/paths.zip">Download the sample files</a> to experiment with relative file paths (and view the home/index.html).
+<a href="/spring2022/assets/paths.zip">Download the sample files</a> to experiment with relative file paths (and view the home/index.html).
 
 ## 2. Linking to pages within your own site
 * LinkedIn Learning Video: [Linking to pages within your own site](https://www.linkedin.com/learning/html-essential-training/linking-to-pages-within-your-site?u=75814418) (10:21)

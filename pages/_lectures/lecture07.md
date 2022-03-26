@@ -12,7 +12,7 @@ slides:
    - url: https://docs.google.com/presentation/d/130qyI-ADSbGweP1MtsZHO-Mq428lm5Fg_esQeJ9ZtN8/edit?usp=sharing
      title: |
         Color, Fonts & Visually Communicating Values
-due_date: 2021-04-19
+due_date: 2022-04-18
 exercise_url: lecture07.zip
 videos:
    - url: https://northwestern.zoom.us/rec/share/myd_godk4VHIr2cPQXtCNzmIFDg7BRv3eF7DigpMj1Y-noV_cyn38VmKc2plleVj.zUIBt9_ZDAIcCOt1?startTime=1618865898000

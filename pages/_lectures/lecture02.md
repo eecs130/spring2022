@@ -5,7 +5,7 @@ type: lecture
 draft: 0
 show_schedule: 1
 num: 2
-due_date: 2021-03-31
+due_date: 2022-03-30
 videos: 
    - url: https://northwestern.zoom.us/rec/share/7hgo8XUzqO7se7npC8lscNsn_abDgRVkAt7itwIW2Wo5Frreq3k6s496hT3ZLdTz.gitGc1385sww1-BB?startTime=1617224259000
      title: Recorded Lecture Video

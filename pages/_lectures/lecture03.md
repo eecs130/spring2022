@@ -2,7 +2,7 @@
 layout: module
 title: Web Infrastructure
 type: lecture
-due_date: 2021-04-05
+due_date: 2022-04-04
 draft: 0
 image_url: assets/images/internet-backbone-map.png
 show_schedule: 1
@@ -32,4 +32,4 @@ videos:
      duration: "41:20"
 
 ---
-<img class="module-image" src="/spring2021/assets/images/internet-backbone-map.png" /> Today's readings provide interesting background and context for the web / internet. You're not going to be tested on them, but you should still do them in order to have a working knowledge of how the internet works. The readings shouldn't take too long!
+<img class="module-image" src="/spring2022/assets/images/internet-backbone-map.png" /> Today's readings provide interesting background and context for the web / internet. You're not going to be tested on them, but you should still do them in order to have a working knowledge of how the internet works. The readings shouldn't take too long!

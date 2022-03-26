@@ -10,11 +10,11 @@ num: 1
 description:
   - Installing & configuring VS Code
   - Practice with HTML tags
-due_date: 2021-04-02
+due_date: 2022-04-01
 ---
 
 {:.blockquote-no-margin}
-> **Assumptions:** This tutorial assumes that you have reviewed the materials and videos assigned in [lecture 2](/spring2021/lectures/lecture02).
+> **Assumptions:** This tutorial assumes that you have reviewed the materials and videos assigned in [lecture 2](/spring2022/lectures/lecture02).
 
 ## Part 1. Setting Up Your Development Environment
 
@@ -22,7 +22,7 @@ due_date: 2021-04-02
 Download and install Visual Studio Code: <a href="https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a>. 
 
 ### 2. Organize your files
-<a href="/spring2021/course-files/tutorials/tutorial01.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/spring2022/course-files/tutorials/tutorial01.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 File management and organization are an essential part of programming and web development. As such, we suggest the following system:
 1. Create a course folder called **cs130** somewhere on your computer. Many people store theirs in Documents or on their Desktop.
@@ -90,7 +90,7 @@ Once you’ve taken a look at the code in VS Code, go to your file navigator (Wi
 
 It should look something like this:
 
-<img class="frame xsmall" src="/spring2021/assets/images/tutorials/tutorial01a.png" />
+<img class="frame xsmall" src="/spring2022/assets/images/tutorials/tutorial01a.png" />
 
 ## Part 2. Completing the Exercises
 Now that you're set up, please complete the 6 tasks below:
@@ -120,12 +120,12 @@ This "link tag" instructs the browser to style the `index.html` according to the
 
 Test your change by refreshing your web browser. Your page should now look like this:
 
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01b.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01b.png" />
 
 Next, add this same stylesheet link tag inside of the head tag of the `videos.html` and `music.html` files, and then preview both of these in your web browser. These pages should look like this:
 
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01c.png" />
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01d.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01c.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01d.png" />
 
 {:#step2}
 ### 2. Link your pages to one another in the navigation section
@@ -144,7 +144,7 @@ Next, modify the anchor tags within the navigation section (in each of your page
 
 Update all of your anchor tags on all three pages. When you're done, all of the pages should link together as shown below:
 
-<img class="frame small" src="/spring2021/assets/images/tutorials/tutorial01-linking.gif" />
+<img class="frame small" src="/spring2022/assets/images/tutorials/tutorial01-linking.gif" />
 
 {:#step3}
 ### 3. Add some images to the index.html file
@@ -157,28 +157,28 @@ Inside the `index.html` file:
 
 When you're done, your page should look like this:
 
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01e.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01e.png" />
 
 
 {:.blockquote-no-margin}
-> **Hint**: Please see the course resources on [images](/spring2021/html-reference/images/) and <a href="https://www.linkedin.com/learning/html-essential-training/displaying-images?u=75814418)" target="_blank">LinkedIn Learning video</a> for more detail.
+> **Hint**: Please see the course resources on [images](/spring2022/html-reference/images/) and <a href="https://www.linkedin.com/learning/html-essential-training/displaying-images?u=75814418)" target="_blank">LinkedIn Learning video</a> for more detail.
 
 {:#step4}
 ### 4. Add two videos to the videos.html file
 Inside the `videos.html` file, add two different YouTube or Vimeo videos inside of the `<section class="video-section"></section>` region of your page. To get the embed code of any YouTube video, (a) navigate to the video, (b) click "share", (c) then click "embed," and (d) then copy the embed code (iframe tag), as pictured below (note the pink squares):
 
-<img class="frame small" src="/spring2021/assets/images/tutorials/tutorial01f.png" />
+<img class="frame small" src="/spring2022/assets/images/tutorials/tutorial01f.png" />
 
-<img class="frame small" src="/spring2021/assets/images/tutorials/tutorial01g.png" />
+<img class="frame small" src="/spring2022/assets/images/tutorials/tutorial01g.png" />
 
-<img class="frame small" src="/spring2021/assets/images/tutorials/tutorial01h.png" />
+<img class="frame small" src="/spring2022/assets/images/tutorials/tutorial01h.png" />
 
 When you're done, your page should look like this (except with *your* videos):
 
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01j.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01j.png" />
 
 {:.blockquote-no-margin}
-> **More examples**: Please also see the course resources on [media tags](/spring2021/html-reference/media-tags/).
+> **More examples**: Please also see the course resources on [media tags](/spring2022/html-reference/media-tags/).
 
 {:#step5}
 ### 5. Add a Spotify player to music.html
@@ -186,7 +186,7 @@ Inside the `music.html` file, add one or more embedded music players inside of t
 
 When you're done, your page should look like this (except with *your* videos):
 
-<img class="frame medium" src="/spring2021/assets/images/tutorials/tutorial01k.png" />
+<img class="frame medium" src="/spring2022/assets/images/tutorials/tutorial01k.png" />
 
 
 {:#step6}
@@ -202,9 +202,9 @@ While we have not yet covered CSS, try editing style.css as follows:
 > #### CSS Reference
 > Please also see the course resources on CSS:
 >
-> * [fonts](/spring2021/css-reference/fonts/)
-> * [color](/spring2021/css-reference/color/)
-> * [selectors](/spring2021/css-reference/selectors/)
+> * [fonts](/spring2022/css-reference/fonts/)
+> * [color](/spring2022/css-reference/color/)
+> * [selectors](/spring2022/css-reference/selectors/)
 
 ## What to turn in
 Please zip your entire tutorial01 folder (ask your TA if you don’t know how to do this), and submit it to Canvas under **Tutorial 1**.

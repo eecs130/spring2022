@@ -13,19 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CS130: Spring 2021"
-subtitle: "Intro to the Web"
+title: "CS396: Winter 2022"
+subtitle: "Intro to Web Development"
 email: vanwars@northwestern.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/spring2021"
-term_start_date: "2021-03-29"
+baseurl: "/spring2022"
+term_start_date: "2022-03-28"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-campuswire_url: https://campuswire.com/p/GB2462469
+campuswire_url: https://campuswire.com/p/GF9C28ACC
 
 timezone: "America/Chicago"
 # Build settings
@@ -36,6 +32,22 @@ theme: minima
 plugins:
   - jekyll-feed
 # exclude: [course-files]
+exclude: 
+  - "*node_modules*"
+  - "*drafts*"
+  - "course-files/lectures/lecture*/*"
+  - "course-files/assignments/hw*/*"
+  - "collections/assignments/drafts/*"
+#  - "course-files/labs/lab0*/*"
+#   - _assignments/draft
+#   - course-files/administrative
+#   - course-files/build
+#   - course-files/exams
+#   - course-files/homework/drafts
+#   - course-files/tutorials/drafts
+#   - course-files/lectures/drafts
+#   - course-files/practice_exams/drafts
+#   - course-files/projects/drafts
 
 collections:
   assignments:
@@ -48,9 +60,6 @@ collections:
     permalink: /lectures/:name
 
 collections_dir: pages
-
-exclude:
-  - "*drafts*"
 
 sass:
   style: compact

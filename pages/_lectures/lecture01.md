@@ -8,7 +8,7 @@ num: 1
 description:
   - Overview of the course
   - Intro to Web Languages and the Browser
-due_date: 2021-03-30
+due_date: 2022-03-29
 videos: 
    - url: "https://northwestern.zoom.us/rec/share/RMIFxnYvpwf3Jwh5BdTSC3Osf--Ts40ncH2yeeMeKKDLXVNLNRhC-SxqaVMS_kFV.sIB78v_E4JSBa436?startTime=1617137904000"
      title: Recorded Lecture Video

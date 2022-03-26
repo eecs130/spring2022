@@ -4,7 +4,7 @@ title: Getting Started with GitHub
 type: tutorial
 abbreviation: Tutorial 2
 draft: 0
-due_date: 2021-04-09
+due_date: 2022-04-08
 num: 2
 points: 2.5
 description:
@@ -99,12 +99,12 @@ You will also need to create a **"Personal Access Token"**. The process is descr
 1. Name your repository `cs130-coursework`, ensure that "public" is selected, and make sure you do **NOT** create a README.md file. 
 3. Then click the green "Create Repository" button.
 
-<img src="/spring2021/assets/images/tutorials/tutorial02/image1.png" />
+<img src="/spring2022/assets/images/tutorials/tutorial02/image1.png" />
 
 ### 2. Set up your local git repository and link it to GitHub
 After you create your repository, you will be redirected to a screen that looks like the one pictured below:
 
-<img class="large" src="/spring2021/assets/images/tutorials/tutorial02/image3a.png" />
+<img class="large" src="/spring2022/assets/images/tutorials/tutorial02/image3a.png" />
 
 Copy the code underneath the "...or create a new repository on the command line" (by clicking the clipboard icon).
 
@@ -155,7 +155,7 @@ It should now say that you tutorial01 files are being tracked.
 ## Part 6. Finally, Configure GitHub Pages
 GitHub also allows you to host pages. To enable GitHub pages, go to your repository and click on the settings tab. Then, scroll halfway down to the GitHub Pages section, and in the dropdown menu below "Source," select your main branch and then click the "Save" button. 
 
-<img src="/spring2021/assets/images/tutorials/tutorial02/image2.png" />
+<img src="/spring2022/assets/images/tutorials/tutorial02/image2.png" />
 
 
 This will generate a link to your GitHub site. A few caveats:

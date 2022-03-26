@@ -8,7 +8,7 @@ As described via the <a href="https://developer.mozilla.org/en-US/docs/Web/API/F
 Consider the following example, which fetches a JSON file from across the network and prints it to the console:
 
 ```js
-const addressOfData = 'https://raw.githubusercontent.com/eecs130/spring2021/master/course-files/tutorials/tutorial06/04-gallery-ajax/data/flowers.json'
+const addressOfData = 'https://raw.githubusercontent.com/eecs130/spring2022/master/course-files/tutorials/tutorial06/04-gallery-ajax/data/flowers.json'
 
 fetch(addressOfData)
     .then((response) => {

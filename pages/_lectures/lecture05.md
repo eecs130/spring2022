@@ -7,7 +7,7 @@ slides:
    - url: https://docs.google.com/presentation/d/1iQXjD4YppbBmevR347zKg41ZGYjQ2EbE1CKDji485uY/edit?usp=sharing
      title: Composition & CSS Layouts
 num: 5
-due_date: 2021-04-12
+due_date: 2022-04-11
 exercise_url: lecture05.zip
 readings:
    - title: "The Non-Designer's Design Book, Chapter 1"

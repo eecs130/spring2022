@@ -15,7 +15,7 @@ videos:
      live: 1
      duration: "51:17"
 
-due_date: 2021-04-21
+due_date: 2022-04-20
 ---
 
 Today will be our last day of CSS formal instruction, though you will still get a lot more practice in [HW2](../assignments/hw02). I was thinking of just showing you some options and talking through how you might approach incorporating some of these flourishes into your website. 

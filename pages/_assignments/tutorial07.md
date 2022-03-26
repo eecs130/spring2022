@@ -4,7 +4,7 @@ title: Starting the Spotify JS Homework
 type: tutorial
 abbreviation: Tutorial 7
 draft: 0
-due_date: 2021-05-14
+due_date: 2022-05-13
 num: 7
 points: 2.5
 ---

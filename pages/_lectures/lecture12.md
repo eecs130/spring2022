@@ -4,7 +4,7 @@ title: Lists, objects & loops
 type: lecture
 draft: 0
 num: 12
-due_date: 2021-05-05
+due_date: 2022-05-04
 exercise_url: lecture12.zip
 slides:
    - url: https://docs.google.com/presentation/d/13AdybT-JMV1pj_Qd9eHJJxssmXLeGWC9lZSLTSee9UY/edit?usp=sharing

@@ -15,10 +15,10 @@ The best way to learn how to design is to look at great designs! Go out to the i
 * Textures
 * Images
 
-Take a look at the [Design Resources page](/spring2021/design-reference/).
+Take a look at the [Design Resources page](/spring2022/design-reference/).
 
 ### 3. Create a style tile
-Use the style guide template in <a href="/spring2021/course-files/lectures/lecture07.zip" target="_blank">the zip file</a> to create your own style tile, instantiating the values that you selected above. Ideally, you will create at least two style tiles, but let's start with one. Based on the 3 final values you have chosen to convey from step 1, play around with colors, textures, fonts, etc. in the `style.css` file.
+Use the style guide template in <a href="/spring2022/course-files/lectures/lecture07.zip" target="_blank">the zip file</a> to create your own style tile, instantiating the values that you selected above. Ideally, you will create at least two style tiles, but let's start with one. Based on the 3 final values you have chosen to convey from step 1, play around with colors, textures, fonts, etc. in the `style.css` file.
 
-<img class="frame medium" src="/spring2021/assets/images/lectures/lecture06-style_tile.png" />
+<img class="frame medium" src="/spring2022/assets/images/lectures/lecture06-style_tile.png" />
 
