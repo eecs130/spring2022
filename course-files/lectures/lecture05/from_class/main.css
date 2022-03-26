@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+/*
+    Your main styles here...
+*/
+
+body {
+    margin: 0px;
+}
+
+#header, #main, #footer {
+    border: solid 1px #000;
+}
+
+#header {
+    background-color: #EEEEEE;
+    left: 0px;
+    top: 0px;
+    height: 100vh; /*vw, vh (vw: viewport width & vh: viewport height) */
+    width: 30vw;
+    position: fixed; /* means that the panel won't scroll */
+    padding: 40px;
+}
+
+#main, #footer {
+    margin-left: 30vw;
+    padding: 40px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+    /* Your mobile styles here */
+}

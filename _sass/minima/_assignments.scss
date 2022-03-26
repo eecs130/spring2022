@@ -1,0 +1,267 @@
+.container {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+        "top"
+        "menu"
+        "main"
+        "bottom";
+}
+
+.assignments {
+    .passed {
+        background: #F9F9F9;
+    }
+}
+
+.assignments, .lectures, .readings, .syllabus, .schedule {
+    .passed {
+        color: #AAA;
+        .hw, a.hw, 
+        .pj, a.pj, 
+        .lec, a.lec, 
+        .lab, a.lab,
+        .ec, a.ec {
+            // opacity: 0.6;
+            background: #BBB;
+        }
+    }
+}
+
+
+.assignments, .lectures, .assignment, .reference, .lecture, .readings, .link-menu, .two-column article, .syllabus, .schedule {
+    display: flex;
+    flex-direction: column;
+    
+    .badge, a.badge,
+    .hw, a.hw, 
+    .pj, a.pj, 
+    .lec, a.lec, 
+    .lab, a.lab, 
+    .ec, a.ec {
+        display: inline-block;
+        border-radius: 4px;
+        color: white;
+        text-transform: uppercase;
+        font-size: .90em;
+        line-height: 1.2em;
+        text-decoration: none;
+        padding: 3px 7px;
+        border-bottom: solid transparent 1px;
+        min-width: 42px;
+        margin-right: 5px;
+        text-indent: 0px;
+        font-family: 'Akkurat Pro Regular';
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+    .badge, .badge:hover {
+        background: $lightgrey;
+        color: #444;
+    }
+    .hw, a.hw {
+        background: $purple;
+    }
+    .pj, a.pj {
+        background: $blue;
+    }
+    .lec, a.lec {
+        background: $mutedblue;
+    }
+    .lab, a.lab {
+        background: $lightlightpurple;
+    }
+    .ec, .ec:hover {
+        background: $lightgrey;
+    }
+    
+    ul {
+        margin-top: 0px;
+    }
+}
+
+.readings {
+    h3 {
+        font-size: 1em;
+        font-weight: 500;
+    }
+    li {
+        margin-bottom: 8px;
+    }
+}
+
+.two-column {
+    .outline {
+        background: #F6F6F6;
+        padding: 10px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        ol, ul {
+            //padding: 10px 10px 5px 15px;
+            padding: 5px 10px 0px 15px;
+        }
+        li {
+            list-style-type: none;
+            padding: 0px;
+            margin-bottom: 5px;
+            a {
+                border-bottom: dotted 1px #999;
+            }
+        }
+        padding: 0px;
+        margin: 0px;
+    }
+}
+
+.assignment, .reference, .lecture, .two-column article, .syllabus, .schedule {
+    ul.toc {
+        padding-left: 0px;
+        li {
+            margin-left: 10px;
+        }
+        li::before {
+            content: none;
+        }
+    }
+    .outline {
+        background: #F6F6F6;
+        padding: 10px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        h3 {
+            margin-top: 0px;
+        }
+    }
+    .checkbox-list {
+        padding-left: 22px;
+    }
+
+    .checkbox-list > li {
+        text-indent: -8px;
+        margin-left: 22px;
+    }
+
+    .checkbox-list > li:before {
+        font-family:"Font Awesome 5 Pro";
+        content: "\f00c";
+        font-weight: 600;
+        color: #1cb954;
+        font-size: 1.2em;
+        vertical-align: top;
+        margin-right: 6px;
+    }
+}
+
+ol.readings, ul.readings {
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    li {
+        margin-top: 0px;
+    }
+}
+
+.lectures, .schedule, .readings {
+    ul {
+        margin: 0px;
+    }
+    p, li {
+        margin-top: 0px;
+    }
+    ol {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-left: 14px;
+        li {
+            margin-bottom: 5px;
+        }
+    }
+}
+
+blockquote.caveat {
+    margin: 20px 0px 20px 40px;
+    background: none;
+    border-left: 0px;
+    padding: 25px;
+    padding: 0px;
+} 
+
+blockquote.quote {
+    margin-left: 20px;
+    background: none;
+    border-left: 0px;
+    padding: 25px;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+    p {
+        font-size: 1.2em;
+    }
+
+    p:before {
+        content: '“';
+        color: #444;
+        font-size: 2em;
+        line-height: 0.1em;
+        margin-right: 0.1em;
+        vertical-align: -0.4em;
+        font-family: 'Times New Roman', Times, serif;
+        vertical-align: middle;
+    }
+    &.slim {
+        border-left: solid 10px #EEE;
+        // margin: 0px;
+        color: #BBB;
+        // font-size: 1.4em;
+        // font-weight: 600;
+        margin-left: 30px;
+        background: #FCFCFC;
+        padding-left: 20px;
+        padding-bottom: 0px;
+        p {
+            margin-bottom: 20px;
+            font-weight: 400;
+            color: #aaa;
+            font-size: 20px;
+        }
+    }
+    &.slim:before {
+        font-size: 3em;
+    }
+}
+
+.schedule ul {
+    padding-left: 20px;
+}
+
+.assignment, .lecture, .details, .two-column article, .syllabus, .schedule {
+    // .outline {
+    //     margin-top: 30px;
+    // }
+    .summary {
+        background: #F3F3F3;
+        padding: 10px;
+        li {
+            margin-left: 30px;
+        }
+    }
+    ul {
+        list-style: none;
+        li::before {
+            font-size: 20px;
+            content: "\2022";
+            font-weight: bold;
+            display: inline-block;
+            text-indent: -16px;
+            // vertical-align: text-bottom;
+            color: $purple;
+        }
+    }
+
+    h3 {
+        color: #676767;
+        font-family:"Campton Extra Light";
+        // color: $lightpurple;
+        font-size: 1.5em;
+    }
+}

@@ -1,0 +1,35 @@
+<ol class="readings">
+{% assign linkedin = 0 %}
+{% for item in page.readings %}
+    {% if item.linkedin == 1 %}
+        {% assign linkedin = 1 %}  
+    {% endif %}  
+    {% assign optional = 0 %}
+    {% if item.optional == 1 %}
+        {% assign optional = 1 %}
+    {% else %}
+        {% include reading.html %} 
+    {% endif %}
+{% endfor %}
+</ol>
+{% if optional == 1 %}
+    <h3>Optional Readings</h3>
+    <ul class="readings">
+    {% for item in page.readings %}
+        {% if item.optional == 1 %}
+            {% include reading.html %} 
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endif %}
+
+
+<!-- {% if linkedin == 1 %}
+
+    In order to access the LinkedIn content, please sign in with your NU account.
+    <a class="nu-button" 
+        href="https://www.linkedin.com/checkpoint/enterprise/login/75814418?application=learning" 
+        target="blank">
+        Sign into LinkedIn Learning <i class="fas fa-external-link-alt"></i>
+    </a>
+{% endif %} -->

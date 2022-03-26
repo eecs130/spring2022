@@ -1,0 +1,131 @@
+table {
+    border-top: solid 1px #444;
+    border-bottom: solid 1px #444;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+
+    td, th {
+        font-size: 0.9em;
+        line-height: 1.5em;
+        margin-top: 5px;
+        vertical-align: top;
+        ul {
+            margin-bottom: 0px;
+            li {
+                line-height: 1.5em;
+                font-size: 1em;
+            }
+        }
+    }
+    td {
+        font-family: "Akkurat Pro Light";
+        strong, i {
+            font-family: 'Akkurat Pro Regular';
+        }
+    }
+
+    td:first-child, th:first-child {
+        min-width: 80px;
+    }
+
+    thead tr:first-child {
+        border-bottom: solid 1px #444;
+    }
+
+    td, th {
+        border-bottom: dotted 1px #999;
+        padding: 8px;
+    }
+    th {
+        font-weight: 500;
+        min-width: 60px;
+        text-align: left;
+    }
+}
+table.rubric {
+    td, th {
+        border-bottom: dotted 1px #CCC;
+        // font-size: 0.95em;
+    }
+    th:nth-child(2) {
+        width: 80px;
+    }
+    border: dotted 1px #CCC;
+    width: 100%;
+    max-width: 100%;
+    tr:first-child {
+        border-bottom: dotted 1px #CCC;
+        th {
+            text-transform: uppercase;
+            color: #000;
+        }
+    }
+    ul {
+        margin: 0px;
+    }
+}
+
+.assignments {
+    td:nth-child(1), th:nth-child(1) {
+        width: 60px !important;
+        font-weight: 500;
+    }
+}
+
+.readings, .schedule {
+    td:nth-child(2), th:nth-child(2) {
+        min-width: 80px;
+    }
+    td:nth-child(2), th:nth-child(2) {
+        min-width: 100px;
+    }
+    td:nth-child(3), th:nth-child(3) {
+        min-width: 210px;
+    }
+    td:nth-child(4), th:nth-child(4) {
+        max-width: 180px;
+    }
+}
+.schedule {
+    td:nth-child(3), th:nth-child(3) {
+        min-width: 280px;
+    }
+}
+
+table.grading, table.rubric {
+    border-top: dotted 1px #ccc;
+    border-bottom: dotted 1px #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 500px;
+    border-collapse: collapse;
+    td:first-child {
+        padding-left: 30px;
+    }
+    td, th {
+        border: dotted 1px #CCC;
+        padding: 3px;
+    }
+    td {
+        font-size: 0.9em;
+    }
+    th {
+        background: #F9F9F9;
+        padding-top: 5px;
+        font-weight: 500;
+        min-width: 80px;
+        text-align: left;
+    }
+}
+
+
+table.xsmall {
+    width: 250px !important;
+}
+table.small {
+    width: 400px !important;
+}
+table.medium {
+    max-width: 550px;
+}

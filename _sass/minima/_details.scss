@@ -1,0 +1,98 @@
+.module-image {
+    max-width: 30%;
+    border-radius: 5px;
+    padding: 5px;
+    border: solid 1px #CCC;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+img.frame {
+    border-radius: 5px;
+    padding: 5px;
+    border: solid 1px #CCC;
+}
+img.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+img.xsmall {
+    max-width: 200px;
+}
+img.small {
+    max-width: 350px;
+}
+img.medium {
+    max-width: 550px;
+}
+img.medium-lg {
+    max-width: 70%;
+}
+ol.spaced, ul.spaced {
+    li {
+        margin-bottom: 20px;
+    }
+}
+
+.nu-button, .nu-button:visited, .nu-button:active,
+.button, .button:visited, .button:active {
+    &:hover {
+        background: $lightpurple;
+        border: none;
+    }
+    background: $purple;
+    border: none;
+    color: #fff !important;
+    margin: 20px .5em 20px 0;
+    padding: .8em 1em .7em 1em;
+    align-self: flex-start;
+    text-transform: uppercase;
+    transition: 0.3s ease;
+    text-decoration: none;
+    i {
+        margin-left: 5px;
+    }
+}
+
+.button, .button:visited, .button:active {
+    background: #EEE;
+    color: #444 !important;
+    &:hover {
+        background: #DDD;
+    }
+}
+
+
+ol.readings {
+    ul.compact {
+        margin: 10px 0px 10px 0px;
+        li {
+            line-height: 1.3em;
+            font-size: 0.9em;
+            padding: 0px;
+            margin: 0px;
+            color: #999;
+        }
+    }
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    margin: -20px 0px 15px 0px;
+    color: #676767;
+    font-family: "Campton Extra Light";
+    font-size: 1.5em;
+}
+
+.highlighter-rouge {
+    margin-bottom: 18px;
+}
+code.highlighter-rouge {
+    padding: 3px;
+}
+
+@media (max-width: 800px) {  
+    img.medium {
+        max-width: 100%;
+    }
+}

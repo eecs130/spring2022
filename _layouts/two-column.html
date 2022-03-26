@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+    <body class="two-column">
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M445JR4"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <div class="container">
+        {% include header.html %}
+        {% include navigation.html %}
+        <main>
+            <aside>
+                {% include toc.html html=content class='side-menu' ordered=true %}
+            </aside>
+            <article>
+                {% include page_title.html %} 
+                {{ content }}
+            </article>  
+        </main>
+        {{ page.additional_html }}
+        {% include scripts.html %}
+        <script type="text/javascript" src="{{site.baseurl}}/assets/js/scrollspy.js"></script>
+    </body>
+</html>

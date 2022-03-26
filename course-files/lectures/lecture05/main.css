@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+/*
+    Your main styles here...
+*/
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+    /* Your mobile styles here */
+}

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    /* color: white; */
+    font-family: Arial;
+    font-size: 1.1em;
+}
+
+body {
+    display: grid;
+    overflow: hidden;
+    margin: 0px;
+    /* 
+    grid-template-columns: ??????;
+    grid-template-rows: ??????;
+    grid-template-areas:  ??????;
+    */
+    height: 100vh;
+}
+
+
+@media screen and (max-width: 700px) {
+    /* Mobile styles go here */
+}
