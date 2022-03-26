@@ -2,7 +2,7 @@
 layout: module
 title: "Creating Page Layouts w/CSS: Part II"
 type: lecture
-draft: 0
+draft: 1
 num: 6
 
 due_date: 2022-04-13

@@ -2,7 +2,7 @@
 layout: module
 title: Practice manipulating the DOM with JavaScript
 type: lecture
-draft: 0
+draft: 1
 num: 9
 due_date: 2022-04-25
 exercise_url: lecture09.zip

@@ -3,7 +3,7 @@ layout: two-column
 title: Practice manipulating the DOM with JavaScript
 type: tutorial
 abbreviation: Tutorial 5
-draft: 0
+draft: 1
 num: 5
 points: 2.5
 due_date: 2022-04-29

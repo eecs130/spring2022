@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Getting Started with GitHub
 type: tutorial
 abbreviation: Tutorial 2
-draft: 0
+draft: 1
 due_date: 2022-04-08
 num: 2
 points: 2.5

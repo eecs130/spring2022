@@ -2,7 +2,7 @@
 layout: module
 title: Alternative Inputs / Outputs
 type: lecture
-draft: 0
+draft: 1
 show_schedule: 1
 num: 18
 due_date: 2022-05-25

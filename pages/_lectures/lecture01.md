@@ -2,7 +2,7 @@
 layout: module
 title: Intro to the Course
 type: lecture
-draft: 0
+draft: 1
 show_schedule: 1
 num: 1
 description:

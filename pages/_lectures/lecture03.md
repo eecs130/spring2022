@@ -3,7 +3,7 @@ layout: module
 title: Web Infrastructure
 type: lecture
 due_date: 2022-04-04
-draft: 0
+draft: 1
 image_url: assets/images/internet-backbone-map.png
 show_schedule: 1
 num: 3

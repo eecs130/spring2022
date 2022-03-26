@@ -2,7 +2,7 @@
 layout: assignment-two-column
 title: Installation & Configuration
 type: tutorial
-draft: 0
+draft: 1
 points: 2.5
 abbreviation: Tutorial 1
 show_schedule: 1

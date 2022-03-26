@@ -2,7 +2,7 @@
 layout: module
 title: "Working with Data: AJAX & Web APIs (Part 1)"
 type: lecture
-draft: 0
+draft: 1
 num: 13
 due_date: 2022-05-09
 exercise_url: lecture13.zip

@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Music Player
 type: tutorial
 abbreviation: Tutorial 6
-draft: 0
+draft: 1
 due_date: 2022-05-06
 num: 6
 points: 2.5

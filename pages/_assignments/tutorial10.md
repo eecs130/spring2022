@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Final Project Presentations [Mandatory Attendance]
 type: presentation
 abbreviation: Presentation
-draft: 0
+draft: 1
 num: 10
 points: 6
 due_date: 2022-06-03

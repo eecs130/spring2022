@@ -2,7 +2,7 @@
 layout: module
 title: Spotify Activity
 type: lecture
-draft: 0
+draft: 1
 num: 15
 due_date: 2022-05-16
 slides:

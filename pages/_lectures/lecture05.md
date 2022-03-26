@@ -2,7 +2,7 @@
 layout: module
 title: "Creating Page Layouts w/CSS: Part I"
 type: lecture
-draft: 0
+draft: 1
 slides:
    - url: https://docs.google.com/presentation/d/1iQXjD4YppbBmevR347zKg41ZGYjQ2EbE1CKDji485uY/edit?usp=sharing
      title: Composition & CSS Layouts

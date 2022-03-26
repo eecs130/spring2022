@@ -3,7 +3,7 @@ layout: two-column
 title: "Design Lab: Make a Homepage"
 type: tutorial
 abbreviation: Tutorial 4
-draft: 0
+draft: 1
 num: 4
 points: 2.5
 due_date: 2022-04-22

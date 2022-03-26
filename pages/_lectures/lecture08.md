@@ -2,7 +2,7 @@
 layout: module
 title: CSS Fun
 type: lecture
-draft: 0
+draft: 1
 num: 8
 exercise_url: lecture08.zip
 slides:

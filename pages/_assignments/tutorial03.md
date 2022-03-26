@@ -3,7 +3,7 @@ layout: two-column
 title: CSS Grid & Media Queries
 type: tutorial
 abbreviation: Tutorial 3
-draft: 0
+draft: 1
 num: 3
 points: 2.5
 due_date: 2022-04-15

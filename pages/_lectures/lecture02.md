@@ -2,7 +2,7 @@
 layout: module
 title: Intro to HTML
 type: lecture
-draft: 0
+draft: 1
 show_schedule: 1
 num: 2
 due_date: 2022-03-30

@@ -2,7 +2,7 @@
 layout: module
 title: Lists, objects & loops
 type: lecture
-draft: 0
+draft: 1
 num: 12
 due_date: 2022-05-04
 exercise_url: lecture12.zip

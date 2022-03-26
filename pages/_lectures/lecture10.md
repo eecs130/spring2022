@@ -2,7 +2,7 @@
 layout: module
 title: Building blocks of programming
 type: lecture
-draft: 0
+draft: 1
 num: 10
 due_date: 2022-04-27
 exercise_url: lecture10.zip

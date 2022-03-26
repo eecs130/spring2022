@@ -2,7 +2,7 @@
 layout: module
 title: Principles of Visual Design
 type: lecture
-draft: 0
+draft: 1
 num: 7
 description:
   - Color

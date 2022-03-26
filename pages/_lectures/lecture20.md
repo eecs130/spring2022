@@ -2,7 +2,7 @@
 layout: module
 title: Domain Names & Analytics
 type: lecture
-draft: 0
+draft: 1
 num: 20
 due_date: 2022-06-01
 slides:
