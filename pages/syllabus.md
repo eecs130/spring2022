@@ -8,7 +8,7 @@ permalink: /syllabus/
 | **Course** | EECS 130: Tools and Technologies of the Worldwide Web |
 | **Prerequisites** | No experience necessary! |
 | **Instructor** | Sarah Van Wart (she/her) |
-| **Lecture** | MW 4:00-4:50pm, Annenberg |
+| **Lecture** | MW 4:00-4:50pm, Annenberg Hall G15 |
 | **Sections** | TBD |
 
 ## About the Course
