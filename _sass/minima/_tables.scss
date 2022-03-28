@@ -43,6 +43,26 @@ table {
         text-align: left;
     }
 }
+
+table.schedule-simple {
+    border-width: 0px;
+    th, td {
+        border-width: 0px;
+        padding: 2px;
+        &:nth-child(1) {
+            width: 60px;
+        }
+        // &:nth-child(2) {
+        //     width: 100px;
+        // }
+    }
+    tr {
+        &:last-child {
+            border-bottom: solid 1px #000;
+        }
+    }
+}
+
 table.rubric {
     td, th {
         border-bottom: dotted 1px #CCC;
