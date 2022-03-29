@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CS396: Winter 2022"
-subtitle: "Intro to Web Development"
+title: "CS130: Spring 2022"
+subtitle: "Tools and Technologies of the World Wide Web"
 email: vanwars@northwestern.edu
 baseurl: "/spring2022"
 term_start_date: "2022-03-28"
