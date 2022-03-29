@@ -2,19 +2,19 @@
 layout: module
 title: Intro to HTML
 type: lecture
-draft: 1
+draft: 0
 show_schedule: 1
 num: 2
 due_date: 2022-03-30
-videos: 
-   - url: https://northwestern.zoom.us/rec/share/7hgo8XUzqO7se7npC8lscNsn_abDgRVkAt7itwIW2Wo5Frreq3k6s496hT3ZLdTz.gitGc1385sww1-BB?startTime=1617224259000
-     title: Recorded Lecture Video
-     live: 1
-     duration: "52:52"
+# videos: 
+#    - url: https://northwestern.zoom.us/rec/share/7hgo8XUzqO7se7npC8lscNsn_abDgRVkAt7itwIW2Wo5Frreq3k6s496hT3ZLdTz.gitGc1385sww1-BB?startTime=1617224259000
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "52:52"
 exercise_url: lecture02.zip
-slides:
-   - url: https://docs.google.com/presentation/d/1ymhwnS5zcr_O9ioKKZZKKg0aq6bUt_uE1BJOsssYKzI/edit?usp=sharing
-     title: Intro to HTML
+# slides:
+#    - url: https://docs.google.com/presentation/d/1ymhwnS5zcr_O9ioKKZZKKg0aq6bUt_uE1BJOsssYKzI/edit?usp=sharing
+#      title: Intro to HTML
 readings:
    - url: ../html-reference/
      title: HTML Resources
