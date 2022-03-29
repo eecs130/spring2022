@@ -5,6 +5,11 @@ type: lecture
 draft: 0
 show_schedule: 1
 num: 1
+videos:
+  - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94db8e30-05b7-4b10-ada8-ae67015a9fbc
+    duration: "48:12"
+    title: Recorded Lecture Video
+    live: 1
 description:
   - Overview of the course
   - Intro to Web Languages and the Browser
