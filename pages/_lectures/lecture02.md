@@ -6,11 +6,11 @@ draft: 0
 show_schedule: 1
 num: 2
 due_date: 2022-03-30
-# videos: 
-#    - url: https://northwestern.zoom.us/rec/share/7hgo8XUzqO7se7npC8lscNsn_abDgRVkAt7itwIW2Wo5Frreq3k6s496hT3ZLdTz.gitGc1385sww1-BB?startTime=1617224259000
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "52:52"
+videos: 
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1b48a42-da5b-403f-8c41-ae680159ee28
+     title: Recorded Lecture Video
+     live: 1
+     duration: "47:39"
 exercise_url: lecture02.zip
 slides:
    - url: https://docs.google.com/presentation/d/1_1eVldmqlIXI1nQltQIUkNZrjBNO2DEOkzV0YRPVRWA/edit?usp=sharing
