@@ -22,11 +22,11 @@ readings:
    - url: https://webfoundation.org/about/vision/history-of-the-web/
      title: History of the Web
      source: The World Wide Web Foundation
-# slides:
-#    - url: https://docs.google.com/presentation/d/1FIQT8xRHlOiznnuV-MLQ3I2Yrmdk5kXnK0txJdKWQKY/edit?usp=sharing
-#      title: Intro to Web Infrastructure
+slides:
+   - url: https://docs.google.com/presentation/d/1tG2QdrtlXCZvSWtd6_4ppv-CNnNMsOXe96t4w1o9ZoE/edit?usp=sharing
+     title: Intro to Web Infrastructure
 # videos: 
-#    - url: https://northwestern.zoom.us/rec/share/MdywccbMuO0eusQRLwQGZdXy3MtbnqGRIsH5Qh12H7Yx8jaHfj0YWJO9qqyo6lUi.t0uMqfGP5ETVl2Ir?startTime=1617656325000
+#    - url: ""
 #      title: Recorded Lecture Video
 #      live: 1
 #      duration: "41:20"
