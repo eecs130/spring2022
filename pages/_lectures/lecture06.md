@@ -1,21 +1,43 @@
 ---
 layout: module
-title: "Creating Page Layouts w/CSS: Part II"
+title: Intro to Design with Accessibility in Mind (with Victoria Chávez)
 type: lecture
 draft: 1
 num: 6
-
 due_date: 2022-04-13
 slides:
-   - url: https://docs.google.com/presentation/d/19l4BAU2Elt_RcclURDUSjjVJ5-CxY9NOo4wEIPX-UlA/edit?usp=sharing
-     title: Composition & CSS Layouts Continued
-
-videos:
-   - url: "https://northwestern.zoom.us/rec/share/F_eUlhp7dfSpA7yXQa0E-5pmgXtDHsbvjI7vS7JODdjG4rYFklelhZK9dvAqA2bz.su_BF5QUDQMvrC3f?startTime=1618433921000"
-     title: Recorded Lecture Video
-     duration: "51:33"
-     live: 1
-
+   - url: https://docs.google.com/presentation/d/16pDtno-c8xzLO28OZxkFYkbhhkgLG8uknNUxDKieemQ/edit#slide=id.g10b431dafbb_0_50
+     title: Design with Accessibility in Mind
+readings:
+   - url: https://www.toptal.com/designers/ui/importance-web-accessibility
+     title: UX and the Importance of Web Accessibility
+     author: Laura Geley
+     date: 2018
+   - url: https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled
+     title: "Supreme Court allows blind people to sue retailers if their websites are not accessible"
+     source: LA Times
+     date: Oct., 2019
+   - url: https://onezero.medium.com/researchers-are-making-memes-accessible-to-the-blind-46b9ef0550da
+     title: "Researchers are making memes accessible to the blind"
+     author: Stokel-Walker, Chris 
+     date: Oct., 2019
+     source: Medium
+   - url: https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do
+     title: The 6 Simplest Web Accessibility Tests Anyone Can Do
+     author: Groves, Karl
+     date: Sept., 2013
+     pick_one: 1
+   - url: https://www.youtube.com/watch?v=cOmehxAU_4s
+     title: "Watch: How I do an accessibility check -- A11ycasts #11"
+     author: Dodson, Rob
+     date: 2018
+     pick_one: 1
+   - url: http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/p24-ladner.pdf
+     title: Design for User Empowerment
+     author: Ladner, Richard
+     source: Interactions (ACM)
+     date: Mar-Apr, 2015
+     optional: 1
 ---
 
-Today we will be reviewing some CSS techniques to instantiate nice page layouts. Please refer to the readings from [Lecture 5](lecture05) for more resources on CSS.
+Guest lecture by Victoria Chávez.

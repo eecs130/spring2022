@@ -1,31 +1,61 @@
 ---
 layout: module
-title: Principles of Visual Design
+title: "Creating Page Layouts w/CSS: Part I"
 type: lecture
 draft: 1
-num: 7
-description:
-  - Color
-  - Values
-  - Branding
 slides:
-   - url: https://docs.google.com/presentation/d/130qyI-ADSbGweP1MtsZHO-Mq428lm5Fg_esQeJ9ZtN8/edit?usp=sharing
-     title: |
-        Color, Fonts & Visually Communicating Values
+   - url: https://docs.google.com/presentation/d/1iQXjD4YppbBmevR347zKg41ZGYjQ2EbE1CKDji485uY/edit?usp=sharing
+     title: Composition & CSS Layouts
+num: 7
 due_date: 2022-04-18
-exercise_url: lecture07.zip
+exercise_url: lecture05.zip
+readings:
+   - title: "The Non-Designer's Design Book, Chapter 1"
+     url: "https://canvas.northwestern.edu/files/11044803/download?download_frd=1"
+     author: "Williams, Robin" 
+     date: 2015
+   - title: "The Non-Designer's Design Book, Chapter 2"
+     url: "https://canvas.northwestern.edu/files/11044802/download?download_frd=1"
+     author: "Williams, Robin" 
+     date: 2015
+   - url: ../css-reference/box-model/
+     title: The Box Model (Review)
+     source: CS 130 Course Website
+     internal: 1
+     linkedin: 1
+   - url: ../css-reference/css-grid/
+     title: CSS Grid
+     source: CS 130 Course Website
+     internal: 1
+   - url: ../css-reference/flexbox/
+     title: Flexbox
+     source: CS 130 Course Website
+     internal: 1
+   - url: ../css-reference/media-queries/
+     title: Media Queries
+     source: CS 130 Course Website
+     internal: 1
 videos:
-   - url: https://northwestern.zoom.us/rec/share/myd_godk4VHIr2cPQXtCNzmIFDg7BRv3eF7DigpMj1Y-noV_cyn38VmKc2plleVj.zUIBt9_ZDAIcCOt1?startTime=1618865898000
+   - url: https://northwestern.zoom.us/rec/share/O0gasc4Y92s__1fHHfx0XLa85HP_d6f8jKOprkD4WhAWJ7wSsQ5J8GYYIsyyey_G.ep4s-tKLWn2Da3qO
      title: Recorded Lecture Video
+     duration: "49:48"
      live: 1
-     duration: "52:02"
-
-include_page: "activities/activity3.md"
 
 ---
 
-Today we will be discussing a few different visual design and usability principles:
+{:.blockquote-no-margin}
+> ## Edited CSS file from today's demo
+>
+> Here is the beginning of the CSS file we made together in lecture today:
+> * [main.css]({{site.baseurl}}/course-files/lectures/lecture05/from_class/main.css)
 
-* Selecting [colors](../css-reference/color/)
-* Communicating <a href="https://docs.google.com/document/d/1Vv5tPZ8UjqJNYO9pCp_PQhxHT8qoGY09deKX6uygUFA/edit?usp=sharing" target="_blank">values</a> through visual design
-* Examples of [style guides](../css-reference/style-guides/)
+
+Today we will be going over page composition, including principles and CSS techniques.
+
+<img style="width:600px;display:block;margin:auto;" src="{{site.baseurl}}/assets/images/lecture12/composition.png" />
+
+## Lecture Activity
+
+Please download today's lecture files and try to recreate the layout below: 
+
+<img class="img medium" src="{{site.baseurl}}/assets/images/lectures/lecture05.gif" /> 

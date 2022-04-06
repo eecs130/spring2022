@@ -160,12 +160,6 @@ console.log("true", typeof "true");
 console.log(Boolean("true"), typeof Boolean("true"));
 ```
 
-### 3. List Objects
-TBD
-
-### 4. Dictionary Objects
-TBD
-
 ## Variables
 * Variables are containers for storing and / or referencing data
 * Variables can also be used to alias data, functions, variables, objects, functions, etc. 

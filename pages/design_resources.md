@@ -25,10 +25,9 @@ As you instantiate your frameworks, keep in mind that most companies have standa
 | Organization | Name of Design Brand |
 |--|--|
 | Salesforce | [Lightning Design System](https://www.lightningdesignsystem.com) |
-| Lonely Planet | [Style Guide](https://rizzo.lonelyplanet.com/styleguide/design-elements/) |
 | Alibaba | [Ant Design](https://ant.design) |
 | Atlassian | [Design Guidelines](https://atlassian.design/) |
-| Firefox | [Photon Design](https://design.firefox.com/photon/welcome.html) |
+| Firefox | [Photon Design](https://design.firefox.com/photon/) |
 | IBM | [Carbon Design](http://carbondesignsystem.com) |
 | Intuit | [Harmony Design](http://harmony.intuit.com) |
 | Shopify | [Polaris](https://polaris.shopify.com) |
