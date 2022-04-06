@@ -6,7 +6,7 @@ draft: 0
 num: 4
 due_date: 2022-04-06
 slides:
-   - https://docs.google.com/presentation/d/19QdtIYOvW8zWuUKWJZOYQ_-64gHAcq9AaJMvCsQzHJw/edit?usp=sharing
+   - url: https://docs.google.com/presentation/d/19QdtIYOvW8zWuUKWJZOYQ_-64gHAcq9AaJMvCsQzHJw/edit?usp=sharing
      title: Intro to CSS
 exercise_url: lecture04.zip
 readings:
