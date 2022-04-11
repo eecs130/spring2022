@@ -9,6 +9,8 @@ due_date: 2022-04-13
 #    - url: https://docs.google.com/presentation/d/16pDtno-c8xzLO28OZxkFYkbhhkgLG8uknNUxDKieemQ/edit#slide=id.g10b431dafbb_0_50
 #      title: Design with Accessibility in Mind
 readings:
+#    - url: https://forms.gle/Ph4krdfSyxQqU1aT8?_imcp=1
+#      title: Pre-Lecture Questionnaire
    - url: https://www.toptal.com/designers/ui/importance-web-accessibility
      title: UX and the Importance of Web Accessibility
      author: Laura Geley
