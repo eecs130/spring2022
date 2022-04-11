@@ -10,6 +10,14 @@ points: 2.5
 description:
     - Setting up GitHub
 ---
+
+<!-- 
+TODO for next time:
+global --user.name
+global --user.email
+
+On Mac, people had to install XCode Tools
+-->
 <style>
     img {
         max-width: 750px;

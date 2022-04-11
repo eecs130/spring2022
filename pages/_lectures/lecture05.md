@@ -22,6 +22,11 @@ slides:
      title: |
         Color, Fonts & Visually Communicating Values
 due_date: 2022-04-11
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d729bfbb-c0f7-4cb2-8b0f-ae74015a51f6
+     title: Recorded Lecture Video
+     live: 1
+     duration: "48:48"
 # exercise_url: lecture05.zip
 
 # include_page: "activities/activity3.md"

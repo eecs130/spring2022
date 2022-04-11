@@ -8,6 +8,11 @@ due_date: 2022-04-06
 slides:
    - url: https://docs.google.com/presentation/d/19QdtIYOvW8zWuUKWJZOYQ_-64gHAcq9AaJMvCsQzHJw/edit?usp=sharing
      title: Intro to CSS
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e90994a2-5acc-483d-8003-ae6f0162f6ab
+     title: Recorded Lecture Video
+     live: 1
+     duration: "07:23"
 exercise_url: lecture04.zip
 readings:
    - url: ../html-reference/semantic-tags/
