@@ -17,14 +17,14 @@ readings:
      title: "The Non-Designer's Design Book, Chapter 2"
      date: 2015
      author: Williams, Robin
-# slides:
-#    - url: https://docs.google.com/presentation/d/1lcSbNHZsr7EPCfFUDXL-Dpszdbc_89B_3-uBcG875iQ/edit?usp=sharing
-#      title: |
-#         Color, Fonts & Visually Communicating Values
+slides:
+   - url: https://docs.google.com/presentation/d/1lcSbNHZsr7EPCfFUDXL-Dpszdbc_89B_3-uBcG875iQ/edit?usp=sharing
+     title: |
+        Color, Fonts & Visually Communicating Values
 due_date: 2022-04-11
 # exercise_url: lecture05.zip
 
-include_page: "activities/activity3.md"
+# include_page: "activities/activity3.md"
 
 ---
 
