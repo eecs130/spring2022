@@ -3,9 +3,6 @@ layout: two-column
 show_outline: 1
 show_schedule: 1
 ---
-
-{{content}}
-
 {% if page.exercise_url %}
     <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
         Exercise Files <i class="fas fa-download"></i>
@@ -83,6 +80,8 @@ show_schedule: 1
     <h2 id="readings">Readings</h2>
     {% include page_readings.html show_headings=1 detail=1 %} 
 {% endif %}
+
+{{content}}
 
 
 {% if page.include_page %}
