@@ -42,7 +42,27 @@ Please see [Lecture 8](../lectures/lecture08) for more examples and resources.
 
 ### 1. Create the three layouts shown below
 
-Please download the tutorial files and implement the three layouts below using CSS Grid. You should use the same stylesheet for all three views. Your TA will help you get started and walk you through one way of defining CSS Grids. 
+Please download the tutorial files and save them inside of your `tutorials` folder in a folder called `tutorials04`. Your `cs130` directory should look something like this:
+
+```bash
+cs130
+├── index.html
+├── style.css
+├── homework
+├── lectures
+│   ├── lecture02
+│   ├── lecture04
+│   ├── lecture07
+│   └── lecture08
+└── tutorials
+    ├── tutorial01
+    └── tutorial04
+        ├── hints
+        ├── index.html
+        └── style.css
+```
+
+When you're done, implement the three layouts below using CSS Grid. You should use the same stylesheet for all three views. Your TA will help you get started and walk you through one way of defining CSS Grids. 
 
 <img src="{{site.baseurl}}/assets/images/css-layouts.png">
 
