@@ -3,9 +3,9 @@ layout: module
 title: "Creating Page Layouts w/CSS: Flex"
 type: lecture
 draft: 0
-slides:
-   - url: ""
-     title: Flexbox Exercises
+# slides:
+#    - url: ""
+#      title: Flexbox Exercises
 num: 7
 due_date: 2022-04-18
 exercise_url: lecture07.zip
