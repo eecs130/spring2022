@@ -30,7 +30,7 @@ readings:
 
 Today we will be reviewing CSS Grid in order to instantiate some common layouts. Please complete the readings before coming to class. We will be reviewing the "Learn CSS Grid by Building 5 Layouts in 17 minutes" video / exercises in class:
 
-## Exercises
+## CSS Grid Exercises
 In class, you will try to build the following layouts:
 
 ### Task 1: Pancake Stack
