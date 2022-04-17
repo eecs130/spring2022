@@ -39,4 +39,4 @@ Today we will be discussing a few different visual design and usability principl
 * Communicating <a href="https://docs.google.com/document/d/1Vv5tPZ8UjqJNYO9pCp_PQhxHT8qoGY09deKX6uygUFA/edit?usp=sharing" target="_blank">values</a> through visual design
 * Examples of [style guides](../css-reference/style-guides/)
 
-If we have time, we will do a brief activitiy.
+<img style="width:600px;" src="{{site.baseurl}}/assets/images/lecture12/composition.png" />
