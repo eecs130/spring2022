@@ -3,7 +3,7 @@ layout: two-column
 title: CSS Grid & Media Queries
 type: tutorial
 abbreviation: Tutorial 4
-draft: 1
+draft: 0
 num: 4
 points: 2.5
 due_date: 2022-04-22
@@ -11,7 +11,7 @@ description:
     - Practice with CSS Grid
 ---
 
-<a href="/spring2022/course-files/tutorials/tutorial03.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/spring2022/course-files/tutorials/tutorial04.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 CSS is notoriously a nightmare -- particularly when it comes to layouts. As an effort to provide some guidance re: using some more modern techniques for layout, the course staff and I have created a basic CSS tutorial, where multiple layouts can be easily supported using CSS Grid -- the latest in a long line of strategies for simplifying layouts.
 
@@ -36,28 +36,29 @@ For instance, the following code uses these properties to generate the layout pi
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ### References
-The <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">CSS Tricks: "A Complete Guide to Grid"</a> tutorial is great tutorial will essentially walk you through some of the key idea of today's lab. In addition, there are some resources on the course website that also cover relevant ideas:
+Please see [Lecture 8](../lectures/lecture08) for more examples and resources.
 
-* [CSS Grid]({{ site.baseurl }}/css-reference/css-grid/)
-* [Media Queries]({{ site.baseurl }}/css-reference/media-queries/)
+## Your Tasks
 
-## Instructions
+### 1. Create the three layouts shown below
 
 Please download the tutorial files and implement the three layouts below using CSS Grid. You should use the same stylesheet for all three views. Your TA will help you get started and walk you through one way of defining CSS Grids. 
 
 <img src="{{site.baseurl}}/assets/images/css-layouts.png">
 
+### 2. Update your homepage to link to your tutorial04
+Please update your index.html page from last week's tutorial so that it links to your completed `Tutorial 4` assignment. See Sarah's <a href="https://vanwars.github.io/cs130-coursework" target="_blank">example homepage</a>.
+
+
+## Checklist
+Please make sure that you have completed the following:
+
+{:.checkbox-list}
+* Implemented desktop layout using CSS Grid
+* Implemented tablet layout using CSS Grid
+* Implemented mobile layout using CSS Grid
+* Your homepage (from Tutorial 3) links to your completed `tutorials/tutorial04/index.html` webpage. 
+* Everything committed to GitHub (stage, commit, and sync).
 
 ## What to turn in
-To submit this week's Tutorial assignment, please do the following: 
-
-1. Save all of your Tutorial 3 files in a folder called `tutorial03`
-2. Add your `tutorial03` folder to your git repository, commit them, and push them to github. Your commands should look something like this:
-
-```shell
-$ git add tutorial03
-$ git commit -am "Checking in my tutorial03 folder"
-$ git push
-```
-
-When you're done, paste a link to your tutorial03 GitHub pages on Canvas under the Tutorial 3 assignment.
+Paste a link to your GitHub pages homepage on Canvas under the Tutorial 4 assignment.

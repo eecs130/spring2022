@@ -21,10 +21,18 @@ readings:
      title: CSS Grid
      source: CS 130 Course Website
      internal: 1
+   - url: ../css-reference/media-queries/
+     title: Media Queries
+     source: CS 130 Course Website
+     internal: 1
    - url: https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
      title: "Learn CSS Grid by Building 5 Layouts in 17 minutes"
+   - url: https://css-tricks.com/snippets/css/complete-guide-grid/
+     title: "CSS Tricks: A Complete Guide to Grid"
+     optional: 1
    - url: https://cssgridgarden.com/
      title: "CSS Grid Garden"
+     optional: 1
 
 ---
 
