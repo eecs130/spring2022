@@ -31,3 +31,4 @@ readings:
 
 ---
 
+Today, we will be delving into CSS layouts, which is arguably among the most difficult parts of this course. Sarah and the course staff strongly suggest that you invest some time into doing the readings / exercises this week. Putting in an investment early on will make you a much better designer / web programmer, and give you more power to instantiate your designs later in the quarter.
