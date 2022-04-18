@@ -3,6 +3,12 @@ layout: module
 title: "Creating Page Layouts w/CSS: Flex"
 type: lecture
 draft: 0
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ac29c0e-7023-4109-8416-ae7b0159d2bd
+     title: Recorded Lecture Video
+     live: 1
+     duration: "50:59"
+
 slides:
    - url: https://docs.google.com/presentation/d/1aJqejUx0bC-ne2_cA7QXnLltvYHjaMcxDeCs2-GEnKw/edit?usp=sharing
      title: "Page Layouts: Understanding the Box Model, Media Queries, and Flexbox"
