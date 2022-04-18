@@ -5,6 +5,11 @@ type: lecture
 draft: 0
 num: 6
 due_date: 2022-04-13
+videos: 
+   - url: https://northwestern.zoom.us/rec/share/IW0yiNhbf0zvjR3-XxqiUPJ8W568Mm6FgYVhdiChNUv4Vek1oKgxwPZDiDY0L7d6.6URC49AQmAirpLR6
+     title: "Design with Accessibility in Mind (with Victoria Chávez)"
+     live: 1
+     duration: "48:18"
 # slides:
 #    - url: https://docs.google.com/presentation/d/16pDtno-c8xzLO28OZxkFYkbhhkgLG8uknNUxDKieemQ/edit#slide=id.g10b431dafbb_0_50
 #      title: Design with Accessibility in Mind
