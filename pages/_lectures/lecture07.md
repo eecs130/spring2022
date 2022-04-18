@@ -3,9 +3,9 @@ layout: module
 title: "Creating Page Layouts w/CSS: Flex"
 type: lecture
 draft: 0
-# slides:
-#    - url: ""
-#      title: Flexbox Exercises
+slides:
+   - url: https://docs.google.com/presentation/d/1aJqejUx0bC-ne2_cA7QXnLltvYHjaMcxDeCs2-GEnKw/edit?usp=sharing
+     title: "Page Layouts: Understanding the Box Model, Media Queries, and Flexbox"
 num: 7
 due_date: 2022-04-18
 exercise_url: lecture07.zip
