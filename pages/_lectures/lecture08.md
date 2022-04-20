@@ -7,10 +7,9 @@ num: 8
 
 due_date: 2022-04-20
 exercise_url: lecture08.zip
-# slides:
-#    - url: ""
-#      title: Composition & CSS Layouts Continued
-
+slides:
+   - url: https://docs.google.com/presentation/d/1pHaxdbGvCzmZhmCg1MwoubruqOyWpG1b2xWWJRCAoQs/edit?usp=sharing
+     title: Working with CSS Grid
 # videos:
 #    - url: ""
 #      title: Recorded Lecture Video
