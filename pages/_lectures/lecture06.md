@@ -10,9 +10,9 @@ videos:
      title: "Design with Accessibility in Mind (with Victoria Chávez)"
      live: 1
      duration: "48:18"
-# slides:
-#    - url: https://docs.google.com/presentation/d/16pDtno-c8xzLO28OZxkFYkbhhkgLG8uknNUxDKieemQ/edit#slide=id.g10b431dafbb_0_50
-#      title: Design with Accessibility in Mind
+slides:
+   - url: https://docs.google.com/presentation/d/1kh5eIfmrNiwggMYqoC6KYIBWA5mAftZEI_O1qt7Kc90/edit?usp=sharing
+     title: Designing with Accessibility in Mind
 readings:
    - url: https://forms.gle/Ph4krdfSyxQqU1aT8?_imcp=1
      title: Pre-Lecture Questionnaire
