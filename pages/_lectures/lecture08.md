@@ -10,11 +10,11 @@ exercise_url: lecture08.zip
 slides:
    - url: https://docs.google.com/presentation/d/1pHaxdbGvCzmZhmCg1MwoubruqOyWpG1b2xWWJRCAoQs/edit?usp=sharing
      title: Working with CSS Grid
-# videos:
-#    - url: ""
-#      title: Recorded Lecture Video
-#      duration: "51:33"
-#      live: 1
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d53714ca-cd71-4ef4-ac53-ae7d015a8e3e
+     title: Recorded Lecture Video
+     duration: "49:28"
+     live: 1
 readings:
    - url: ../css-reference/css-grid/
      title: CSS Grid
