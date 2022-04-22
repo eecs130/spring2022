@@ -21,7 +21,7 @@ footer {
     display: flex;
     flex-direction: column;
 }
-.current-song .label h3 {
+.current-song .label h2 {
     margin-bottom: 0px;
     font-size: 0.9em;
 }
@@ -45,6 +45,10 @@ footer {
     align-self: center;
     align-items: center;
     margin-bottom: 10px;
+}
+.player .controls button {
+    background: transparent;
+    border: none;
 }
 .player .controls i {
     color: #b3b3b3;
