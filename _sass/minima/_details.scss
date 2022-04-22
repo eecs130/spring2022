@@ -61,7 +61,13 @@ ol.spaced, ul.spaced {
         background: #DDD;
     }
 }
+ul.compact, ol.compact {
 
+    margin: 0px 0px 10px 0px; 
+    li {
+        line-height: 1.4em;
+    }
+}
 
 ol.readings {
     ul.compact {
