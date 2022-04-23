@@ -3,7 +3,7 @@ layout: two-column
 title: Practice manipulating the DOM with JavaScript
 type: tutorial
 abbreviation: Tutorial 5
-draft: 1
+draft: 0
 num: 5
 points: 2.5
 due_date: 2022-04-29
@@ -114,7 +114,7 @@ When you're done, your web page should look like this:
 
 
 ## Update your homepage to link to your tutorial05
-Please update your index.html page from Tutorial 3 so that it links to your completed `Tutorial 4` web pages. See Sarah's <a href="https://vanwars.github.io/cs130-coursework" target="_blank">example homepage</a>.
+Please update your index.html page from Tutorial 3 so that it links to your completed `Tutorial 5` web pages. See Sarah's <a href="https://vanwars.github.io/cs130-coursework" target="_blank">example homepage</a> (format the links however you like).
 
 ## Checklist
 Please make sure that you have completed the following:
