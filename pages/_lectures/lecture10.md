@@ -1,26 +1,50 @@
 ---
 layout: module
-title: Building blocks of programming
+title: Intro to JavaScript
 type: lecture
-draft: 1
+draft: 0
 num: 10
 due_date: 2022-04-27
-exercise_url: lecture10.zip
-slides:
-   - url: https://docs.google.com/presentation/d/1FF0ieZHAVOSZoPrGPr0XU3AAzg8QBYGM2hRRuGNGF58/edit?usp=sharing
-     title: Intro to Programming
+# exercise_url: lecture10.zip
+# slides:
+#    - url: ""
+#      title: Intro to JavaScript
+# videos: 
+#    - url: https://northwestern.zoom.us/rec/share/tzBlKL-crhABoNw2Hn28voz41FZlsTQ6UMHN3ppMTOcRm0pyXccWRNfJQP8WsX02.YJ5MK_M8Jvd5zo5K
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "50:22"
 readings:
-   - url: https://flaviocopes.nyc3.digitaloceanspaces.com/javascript-beginner-handbook/javascript-beginner-handbook.pdf
-     title: The JavaScript Beginner's Handbook
-     author: "Flavio Copes"
-     source: "O'Reilly"
-     date: 2021
-     notes: "Please read pp. 9-34"
-videos: 
-   - url: https://northwestern.zoom.us/rec/share/tzBlKL-crhABoNw2Hn28voz41FZlsTQ6UMHN3ppMTOcRm0pyXccWRNfJQP8WsX02.YJ5MK_M8Jvd5zo5K
-     title: Recorded Lecture Video
-     live: 1
-     duration: "50:22"
+    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6893817922595491840%3Ftrk%3Dshare_collection_url%26shareId%3D0NeVKp3mQHa7VVUrYfRxcQ%253D%253D
+      title: "Playlist: Working with the DOM"
+      source: "JavaScript Essential Training (LinkedIn Learning)"
+      notes: "Select videos from 5. The DOM"
+    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6893810278556135425%3Ftrk%3Dshare_collection_url%26shareId%3DEHJm2ZttTJOxS6ju3Qlamg%253D%253D
+      title: "Playlist: Intro to Javascript"
+      source: "JavaScript Essential Training (LinkedIn Learning)"
+      notes: "Select videos from 6. Sidebar: Varibles and Data Types"
+    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923735610826371072%3Ftrk%3Dshare_collection_url%26shareId%3DWFr9s0n%252FSWa4jtvZK3%252Fkig%253D%253D
+      title: "Playlist: Functions"
+      source: "JavaScript Essential Training (LinkedIn Learning)"
+      notes: "Select videos from 8. Functions and Methods"
+    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923755054281732097%3Ftrk%3Dshare_collection_url%26shareId%3DxqjZxhxPSZys25m0Gto2KQ%253D%253D
+      title: "Playlist: Events"
+      source: "JavaScript Essential Training (LinkedIn Learning)"
+      notes: "Select videos from 9. Events"
+    - url: https://flaviocopes.com/books/javascript-beginner-handbook.pdf
+      title: The JavaScript Beginner's Handbook
+      author: "Flavio Copes"
+      date: 2020
+      optional: 1
+      notes: "Please read pp. 9-34"
+    - url: https://www.destroyallsoftware.com/talks/wat
+      title: "JavaScript Wat Video"
+      author: "Gary Burnhardt" 
+      optional: 1
+    - url: "https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+      title: "How it feels to learn JavaScript in 2016"
+      author: "Jose Aguinaga" 
+      optional: 1
 ---
 
-Today we'll be going over the building blocks of programming, using JavaScript. Over the next two weeks, you'll be reading almost all of the "The JavaScript Beginner's Handbook." For today, read pp. 9-34 (from the "syntax" section all the way to the "arrays" section).
+Today we'll be starting our exploration of JavaScript. You have been assigned quite a few videos to watch. Please watch them -- they'll help you learn about JavaScript, which can be a bit overwhelming at first! You'll also get to practice some basic JavaScript in this week's tutorial.

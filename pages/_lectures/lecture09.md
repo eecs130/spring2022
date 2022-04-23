@@ -1,35 +1,42 @@
 ---
 layout: module
-title: Practice manipulating the DOM with JavaScript
+title: CSS Fun
 type: lecture
-draft: 1
+draft: 0
 num: 9
 due_date: 2022-04-25
-exercise_url: lecture09.zip
-slides:
-   - url: https://docs.google.com/presentation/d/1mbtOsPTkWoW38JEhyT1DLjSpsL3SiR8hnuVvPPVD3T0/edit?usp=sharing
-     title: Intro to JavaScript & Manipulating the DOM
-videos: 
-   - url: https://northwestern.zoom.us/rec/share/ENN5cWEzJrUBgljStZmW8j35eE5tvlnfQ_izVKincavVcfED9Pgos3c61OECkjQQ._corffPawmW4gInX?startTime=1619470783000
-     title: Recorded Lecture Video
-     live: 1
-     duration: "52:29"
+# exercise_url: lecture09.zip
+# Good to go!
+# slides:
+#    - title: "CSS Flourishes"
+#      url: https://docs.google.com/presentation/d/1_vuuuGrt3vEnI8smB2gQ7stYex5rQU4P9YKahelzMQo/edit?usp=sharing
 
-readings:
-   - url: https://learning.oreilly.com/playlists/d99f7433-24b8-4370-8e33-f2bb8429e702
-     title: |
-        JavaScript: Intro to the DOM
-     author: "Laurence Svekis"
-     source: "O'Reilly"
-     date: 2021
-   - url: https://www.w3schools.com/js/js_htmldom.asp
-     title: Intro to the DOM
-     source: W3Schools
+# videos: 
+#    - url: ""
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "51:17"
 
 ---
 
-Today we will begin examining JavaScript, and will therefore need to learn a little bit of programming. We will begin by practicing how to programmatically manipulate the DOM (in a way that is very similar to using CSS selectors).
+Today will be our last day of CSS formal instruction, though you will still get a lot more practice in [HW2](../assignments/hw02). I was thinking of just showing you some options and talking through how you might approach incorporating some of these flourishes into your website. 
 
-I have also assigned you (1) some JavaScript videos from O'Reilly Media, and (2) a W3Schools webpage that each cover how JavaScript can be used to manipulate the DOM. To watch the O'Reilly video, log into Safari Books with your NU account.
+Try to have fun with these ideas -- even if you don't really understand the syntax yet. Some interesting links and resources I found online:
 
-<a href="http://turing.library.northwestern.edu/login?url=https://www.safaribooksonline.com/library/view/temporary-access/" target="_blank" class="button">Safari Books Login <i class="fas fa-link"></i></a>
+### Image Backgrounds
+* <a href="https://www.w3schools.com/cssref/pr_background-attachment.asp" target="_blank">background-attachment</a>
+* <a href="https://www.w3schools.com/cssref/css3_pr_filter.asp" target="_blank">CSS filters</a>
+
+
+#### Parallax
+Some of these require JavaScript, so 
+* <a href="https://github.com/dixonandmoe/rellax" target="_blank">https://github.com/dixonandmoe/rellax</a>
+* <a href="https://alexfox.dev/lax.js/" target="_blank">https://alexfox.dev/lax.js/</a>
+* <a href="https://github.com/electerious/basicScroll#demos" target="_blank">https://github.com/electerious/basicScroll#demos</a>
+* <a href="https://bashooka.com/coding/parallax-animation-javascript" target="_blank">https://bashooka.com/coding/parallax-animation-javascript-libraries-2019/</a>
+* <a href="https://chriscavs.github.io/rallax-demo/" target="_blank">https://chriscavs.github.io/rallax-demo/</a>
+* <a href="https://github.com/geosigno/simpleParallax.js" target="_blank">https://github.com/geosigno/simpleParallax.js</a>
+
+#### Other Animation Libraries and Tutorials
+* <a href="https://github.com/juliangarnier/anime#getting-started" target="_blank">AnimeJS</a>
+* Some interesting <a href="https://www.linkedin.com/learning/css-shorts/welcome?u=75814418" target="_blank">CSS Shorts</a> on LinkedIn learning, which deconstruct various design techniques / flourishes.
