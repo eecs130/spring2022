@@ -24,11 +24,6 @@ Lectures will take place during class time, and will be recorded. I will also as
 ### Tutorial Sessions
 This course also involves weekly small-group tutorial sessions where you will work with a member of the teaching staff, beginning in Week 1. Tutorial sessions will be run synchronously (live) by your assigned peer mentors. During each tutorial session, you will work through an exercise together with your peer mentor, to advance your understanding of various web concepts. 
 
-All Tutorials are due on Friday at 11:59PM and are graded pass / fail. We will typically not grade you on attendance. That said: 
-
-* Your attendance will be required for some tutorial sessions, as you will be presenting your final project and getting feedback from others.
-* Attending the tutorial is a form of low-pressure, built-in accountability that will help you learn.
-
 Following the submission deadline, solutions will be made available via Canvas.
 
 ### Homework and Projects
@@ -90,15 +85,41 @@ Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 8
 2. We will NOT be using the final exam time for this class.
 3. You will be presenting your final project during your tutorial section on the last day.
 
+### Tutorial Grading
+All Tutorials are due on Friday at 11:59PM and are graded pass / fail. We will typically not grade you on attendance. That said: 
+
+* Your attendance will be required for some tutorial sessions, as you will be presenting your final project and getting feedback from others.
+* Attending the tutorial is a form of low-pressure, built-in accountability that will help you learn.
+
 ### Homework Grading
-Homework will be approximately weekly. Homework assignments are due at 11:59pm on Thursdays, unless otherwise specified. Each day your homework is late, we will apply a 10% deduction. If your homework is 5 or more days late, the most you can earn is a 50% (see the HW grading formula below): 
+All homework assignments will be due as indicated on Canvas. A late penalty will be applied to all late homework submission. The late penalty is as follows:
 
-```js
-// JavaScript formula:
-Math.max(0.5, (1 - numDaysLate * 0.1)) * score
-```
+{:.small}
+| Days Late | Penalty |
+|--|--|
+| up to 1 day | 10% penalty | 
+| 1-2 days | 20% penalty | 
+| 2-3 days | 30% penalty | 
+| 3-4 days | 40% penalty | 
+| > 5 days | 50% penalty | 
 
-I do not give extensions unless they come from the Dean of Students or from Accessible NU.
+{:#late-policy}
+#### Late Credits
+During COVID, we have decided to instill a system of "Late Credits." Over the course of the quarter, you have **5 "late credits"** that you can allocate across your homeworks, no questions asked. The purpose of these late credits is to give you some flexibility if you get sick or have a personal emergency, as Sarah and the course staff are having difficulty keeping track of all of the extension requests. 
+
+*Note that your final project deliverable **MUST be submitted on time** because of the Ceasar grading deadline.
+
+#### How do credits work?
+* 1 credit = 1 day
+* Credits cannot be split / partially allocated. For instance:
+    * If you submit a HW assignment 30 minutes, you will spend 1 credit towards that HW (with 4 left over to use for future homeworks). 
+    * If you submit a homework 27 hours late, you will spend 2 credits towards that HW (with 3 left over to use for future homeworks). 
+* Credits can only be applied to homework, not labs.
+* If you use up your 5 credits, the late submission policy for homework kicks in
+* Any accommodations beyond the 5 days will need to be routed through the Dean of Students.
+
+To apply your "late credits" to an assignment, please fill out <a href="https://forms.gle/PuoQBNkJ6a7mFSjc9" target="_blank">this form</a>
+* You must fill out the form in order for your grader to apply your late credits.
 
 ## Policy on Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. For the programming assignments: You are allowed (encouraged, even!) to discuss general approaches to solving problems, but all work you submit must be your own. Working “together” and presenting variants of the same file is not acceptable. Here are some specific guidelines to make sure you don’t cross the line:
