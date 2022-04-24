@@ -92,7 +92,7 @@ All Tutorials are due on Friday at 11:59PM and are graded pass / fail. We will t
 * Attending the tutorial is a form of low-pressure, built-in accountability that will help you learn.
 
 ### Homework Grading
-All homework assignments will be due as indicated on Canvas. A late penalty will be applied to all late homework submission. The late penalty is as follows:
+All homework assignments will be due as indicated on Canvas. A late penalty will be applied to all late homework submissions. The late penalty is as follows:
 
 {:.small}
 | Days Late | Penalty |
