@@ -10,11 +10,11 @@ slides:
    - title: "CSS Flourishes"
      url: https://docs.google.com/presentation/d/1_vuuuGrt3vEnI8smB2gQ7stYex5rQU4P9YKahelzMQo/edit?usp=sharing
 
-# videos: 
-#    - url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "51:17"
+videos: 
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3781412-e61e-4ea2-b163-ae820159ecb1
+     title: Recorded Lecture Video
+     live: 1
+     duration: "48:08"
 
 ---
 
