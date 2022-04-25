@@ -5,11 +5,10 @@ type: lecture
 draft: 0
 num: 9
 due_date: 2022-04-25
-# exercise_url: lecture09.zip
-# Good to go!
-# slides:
-#    - title: "CSS Flourishes"
-#      url: https://docs.google.com/presentation/d/1_vuuuGrt3vEnI8smB2gQ7stYex5rQU4P9YKahelzMQo/edit?usp=sharing
+exercise_url: lecture09.zip
+slides:
+   - title: "CSS Flourishes"
+     url: https://docs.google.com/presentation/d/1_vuuuGrt3vEnI8smB2gQ7stYex5rQU4P9YKahelzMQo/edit?usp=sharing
 
 # videos: 
 #    - url: ""
