@@ -127,4 +127,4 @@ Please make sure that you have completed the following:
 * Everything committed to GitHub (stage, commit, and sync).
 
 ## What to turn in
-Paste a link to your GitHub pages homepage on Canvas under the Tutorial 5 assignment.
+Paste a link to your GitHub pages homepage (website) + your Github repository (code files) on Canvas under the Tutorial 5 assignment.
