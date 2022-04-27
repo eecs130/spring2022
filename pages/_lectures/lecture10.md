@@ -5,12 +5,12 @@ type: lecture
 draft: 0
 num: 10
 due_date: 2022-04-27
-# exercise_url: lecture10.zip
-# slides:
-#    - url: ""
-#      title: Intro to JavaScript
+exercise_url: lecture10.zip
+slides:
+   - url: https://docs.google.com/presentation/d/1QptijMh1DR5hliYQF_qP3Inrbn7PZQwWSd4jdftRwaI/edit?usp=sharing
+     title: Intro to JavaScript
 # videos: 
-#    - url: https://northwestern.zoom.us/rec/share/tzBlKL-crhABoNw2Hn28voz41FZlsTQ6UMHN3ppMTOcRm0pyXccWRNfJQP8WsX02.YJ5MK_M8Jvd5zo5K
+#    - url: ""
 #      title: Recorded Lecture Video
 #      live: 1
 #      duration: "50:22"
