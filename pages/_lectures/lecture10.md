@@ -9,11 +9,11 @@ exercise_url: lecture10.zip
 slides:
    - url: https://docs.google.com/presentation/d/1QptijMh1DR5hliYQF_qP3Inrbn7PZQwWSd4jdftRwaI/edit?usp=sharing
      title: Intro to JavaScript
-# videos: 
-#    - url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "50:22"
+videos: 
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee574a26-59ca-48f1-a365-ae84015a7515
+     title: Recorded Lecture Video
+     live: 1
+     duration: "48:16"
 readings:
     - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6893817922595491840%3Ftrk%3Dshare_collection_url%26shareId%3D0NeVKp3mQHa7VVUrYfRxcQ%253D%253D
       title: "Playlist: Working with the DOM"
