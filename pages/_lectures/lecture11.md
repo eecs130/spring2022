@@ -1,20 +1,23 @@
 ---
 layout: module
-title: Functions, events, and control
+title: Intro to Programming with JavaScript
 type: lecture
 draft: 0
 num: 11
 due_date: 2022-05-02
 slides:
-   - url: ""
-     title: Functions, events, and control
+   - url: https://docs.google.com/presentation/d/15eCdmn-Byj_fRmK2PrkDoV8LA05xttofAPSAygG6xX0/edit?usp=sharing
+     title: 1. Variables, expressions, and statements
+   - url: https://docs.google.com/presentation/d/1D__Q35lNNsrbwui_WaPjx810Ef5mC_ArwAB2F4XPK_U/edit?usp=sharing
+     title: 2. Functions, events, and control
+     
 # videos:
 #    - url: ""
 #      title: Recorded Lecture Video
 #      live: 1
 #      duration: "51:32"
 
-# exercise_url: lecture11.zip
+exercise_url: lecture11.zip
 readings:
    - url: https://flaviocopes.nyc3.digitaloceanspaces.com/javascript-beginner-handbook/javascript-beginner-handbook.pdf
      title: The JavaScript Beginner's Handbook
