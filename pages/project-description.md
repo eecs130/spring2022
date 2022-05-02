@@ -23,8 +23,8 @@ Don’t be afraid to take a risk and explore something you do not yet know how t
 Aim to scope your project so that you can arrive at a coherent stopping point by the end of the quarter. I am hesitant to provide too many scoping criteria/restrictions a priori. I would rather work with you to scope something that is doable after first seeing what you’re interested in. That said, here are a few guidelines:
 
 * You may work on your own or in groups of 2-3. Your work plan should be commensurate with the number of people in your group.
-* You may focus on depth or breadth. In other words, you can go deep in one particular area (e.g. design + CSS, animation, data visualization, REST APIs), or build something that uses a little bit of everything.
-* You will be completing 3 project deliverables in the coming weeks (which you will set for yourself). You will also be presenting your final deliverable during the last day of class. Given this, think about how you might break your project into 3 coherent parts.
+* You may focus on depth or breadth. In other words, you can go deep in one particular area (e.g. design + CSS, animation, data visualization, etc.), or build something that uses a little bit of everything.
+* You will be completing 3 project deliverables in the coming weeks (which you will set for yourself). You will also be presenting your final deliverable during your last tutorial class. Given this, think about how you might break your project into 3 coherent parts.
 * Each deliverable should represent about 4-6 hours of effort (per teammate). We realize that this is difficult for us to qualitatively assess when we're grading you, and will give you the benefit of the doubt. That said, if your scope of work is significantly less than that of the homework assignments, this will be obvious to us.
 * You're welcome to connect this to a larger project you're working on outside of this class. That said, your three deliverables must be original work that you complete over the course of this class. Moreover, you cannot double-count this work with work in another class.
 * You are welcome to explore something that wasn't directly covered in class. That said, at least 50% of your project should connect with the technologies and ideas from the class. 
@@ -63,10 +63,10 @@ These libraries may be useful:
 * <a href="https://vega.github.io/vega/" target="_blank">Vega</a>
 
 ### D. Data-Driven Web App for an Existing Database
-Creating some interactive web front end that works with a third-party API (e.g. Spotify, CTA, Divvy Bikes API, Twitter, Flickr, etc.). For instance, this is a web app that interacts with the Spotify API (like <a href="https://gitriley.github.io/everlysn/">this one</a>).
+Creating some interactive web front end that works with a third-party API (e.g. Spotify, CTA, Divvy Bikes API, Twitter, Flickr, etc.). For instance, this is a web app that interacts with the Spotify API (like <a href="https://gitriley.github.io/everlysn/" target="_blank">this one</a>).
 
 ### E. Full Stack Web App (with Custom Database)
-Designing and implementing a small REST API with a database, and using it to drive your website. This is only recommended for students who have had at least two programming classes (typically CS majors / minors), as it will involve taking some initiative (reading Node.js tutorials, database tutorials, etc.). Historically, around 2-3 students have gone this route (and have been very successful), but it requires some initiative to do some tutorials on your own. 
+Designing and implementing a small REST API with a database, and using it to drive your website. This is only recommended for students who have had at least two programming classes (typically CS majors / minors), as it will involve taking some initiative (reading web framework tutorials, database tutorials, etc.). Historically, around 2-3 students have gone this route (and have been very successful), but it requires some initiative to do some tutorials on your own. 
 
 
 ## Project Milestones
