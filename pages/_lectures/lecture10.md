@@ -22,15 +22,7 @@ readings:
     - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6893810278556135425%3Ftrk%3Dshare_collection_url%26shareId%3DEHJm2ZttTJOxS6ju3Qlamg%253D%253D
       title: "Playlist: Intro to Javascript"
       source: "JavaScript Essential Training (LinkedIn Learning)"
-      notes: "Select videos from 6. Sidebar: Varibles and Data Types"
-    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923735610826371072%3Ftrk%3Dshare_collection_url%26shareId%3DWFr9s0n%252FSWa4jtvZK3%252Fkig%253D%253D
-      title: "Playlist: Functions"
-      source: "JavaScript Essential Training (LinkedIn Learning)"
-      notes: "Select videos from 8. Functions and Methods"
-    - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923755054281732097%3Ftrk%3Dshare_collection_url%26shareId%3DxqjZxhxPSZys25m0Gto2KQ%253D%253D
-      title: "Playlist: Events"
-      source: "JavaScript Essential Training (LinkedIn Learning)"
-      notes: "Select videos from 9. Events"
+      notes: "Select videos from 6. Sidebar: Variables and Data Types"
     - url: https://flaviocopes.com/books/javascript-beginner-handbook.pdf
       title: The JavaScript Beginner's Handbook
       author: "Flavio Copes"

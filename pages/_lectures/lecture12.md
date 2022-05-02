@@ -2,18 +2,18 @@
 layout: module
 title: Lists, objects & loops
 type: lecture
-draft: 1
+draft: 0
 num: 12
 due_date: 2022-05-04
 exercise_url: lecture12.zip
 slides:
-   - url: https://docs.google.com/presentation/d/13AdybT-JMV1pj_Qd9eHJJxssmXLeGWC9lZSLTSee9UY/edit?usp=sharing
+   - url: ""
      title: Lists, objects & loops
-videos:
-   - url: https://northwestern.zoom.us/rec/share/LHsjWC1rWdfmH0_2QAlY8jFSmLNVfHSBA9AmYSmv1C9zpbxkcm3RpJE8Wdo7EJjC._U7m9y1uPYIjwDlT
-     title: Recorded Lecture Video
-     live: 1
-     duration: "51:49"
+# videos:
+#    - url: ""
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "51:49"
 readings:
    - url: https://flaviocopes.nyc3.digitaloceanspaces.com/javascript-beginner-handbook/javascript-beginner-handbook.pdf
      title: The JavaScript Beginner's Handbook

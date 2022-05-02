@@ -2,19 +2,19 @@
 layout: module
 title: Functions, events, and control
 type: lecture
-draft: 1
+draft: 0
 num: 11
 due_date: 2022-05-02
 slides:
-   - url: https://docs.google.com/presentation/d/1APqTG7gSUHTQu_KVZPv0uCoz3Cvo3dKrJw1o-g4jLuk/edit?usp=sharing
+   - url: ""
      title: Functions, events, and control
-videos:
-   - url: https://northwestern.zoom.us/rec/share/ZRYG2WkqsiNJ1FJCQBiyPpaLR6yCLNAWHX79F49kg6FsR2uU6UTngfTIWYk2k838.rEFDKRd-Z-qU7Ax8
-     title: Recorded Lecture Video
-     live: 1
-     duration: "51:32"
+# videos:
+#    - url: ""
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "51:32"
 
-exercise_url: lecture11.zip
+# exercise_url: lecture11.zip
 readings:
    - url: https://flaviocopes.nyc3.digitaloceanspaces.com/javascript-beginner-handbook/javascript-beginner-handbook.pdf
      title: The JavaScript Beginner's Handbook
@@ -22,9 +22,14 @@ readings:
      source: "O'Reilly"
      date: 2021
      notes: "Please read pp. 25-26, 38-44"
-   - url: https://learning.oreilly.com/videos/javascript-for-beginners/9781800562431/9781800562431-video2_31
-     title: "Introduction to Event Listeners"
-     source: Safari Books
+   - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923735610826371072%3Ftrk%3Dshare_collection_url%26shareId%3DWFr9s0n%252FSWa4jtvZK3%252Fkig%253D%253D
+     title: "Playlist: Functions"
+     source: "JavaScript Essential Training (LinkedIn Learning)"
+     notes: "Select videos from 8. Functions and Methods"
+   - url: https://www.linkedin.com/learning-login/share?account=75814418&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6923755054281732097%3Ftrk%3Dshare_collection_url%26shareId%3DxqjZxhxPSZys25m0Gto2KQ%253D%253D
+     title: "Playlist: Events"
+     source: "JavaScript Essential Training (LinkedIn Learning)"
+     notes: "Select videos from 9. Events"
 
 ---
 
@@ -32,5 +37,3 @@ Today we'll continue learning about the building blocks of programming, with a f
 * Conditionals are reviewed on pp. 25-26 of the readings.
 * Functions are reviewed on pp. 38-44.
 * Event Listeners are reviewed in the assigend Safari Books video.
-
-<a href="http://turing.library.northwestern.edu/login?url=https://www.safaribooksonline.com/library/view/temporary-access/" target="_blank" class="button">Safari Books Login <i class="fas fa-link"></i></a>

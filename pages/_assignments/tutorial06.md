@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Music Player
 type: tutorial
 abbreviation: Tutorial 6
-draft: 1
+draft: 0
 due_date: 2022-05-06
 num: 6
 points: 2.5
@@ -11,7 +11,7 @@ description:
     - Functions and Event Handlers
 ---
 
-<a href="/spring2022/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> <a href="/spring2022/course-files/tutorials/tutorial06-solutions.zip" class="button">Solutions<i class="fas fa-download"></i></a> 
+<a href="/spring2022/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 Today you will be writing the code that allows you to view and listen to samples of songs by Bob Dylan. Specifically, you will:
 
@@ -47,7 +47,7 @@ Write some code that iterates through every item in your tracks list and outputs
 ### 2. Modify the playSong() event handler
 Modify the `playSong()` event handler so that it loads in the track associated with the album that has just been clicked. If you were successful, it should look like this (but don't view the source of the example just yet!):
 
-* <a href="https://vanwars.github.io/cs130-spring2022/tutorial06/index.html" target="_blank">Tutorial 6 Demo</a>
+* <a href="https://vanwars.github.io/cs130-coursework/tutorials/tutorial06/index.html" target="_blank">Tutorial 6 Demo</a>
 
 #### Hints
 * Hint 1: How can you make use of the "data-index" attribute to access the corresponding `preview_url` from the original `tracks` list? 
@@ -62,14 +62,5 @@ You'll put your search term directly after the **?q=** (replace `the%20arcade%20
 
 When you've found a song you like, just replace the values of `id`, `name`, `preview_url` and `image_url` in one of your tracks and test it out!
 
-
-## Turn in your files via GitHub
-Move your `tutorial06` folder into your repo folder (if it's not there already). Then, before you submit this week, please edit the homepage that you made in [Tutorial 4](tutorial04) by adding a link to the `index.html` file that you made in today's tutorial. When you're done:
-
-1. Check the status of your repo:<br>`$ git status`<br>It should say that your tutorial06 files are “untracked”
-1. Add all of your tutorial06 files to the list of files that are tracked by the repo:<br>`$ git add tutorial06`
-1. Check the status of your repo again:<br>`$ git status`<br>It should now say that you tutorial06 files are being tracked.
-1. Now, commit your new tutorial06 files to the repo:<br>`$ git commit -m "Adding my tutorial06 to the repo"`
-1. Finally, “push” your files to GitHub:<br>`$ git push`
-1. Paste a link to your GitHub repo and to your GitHub pages 
-
+## What to turn in
+Before you submit this week, please edit the homepage that you made in [Tutorial 3](tutorial03) by adding a link to the `index.html` file that you made in today's tutorial. When you're done, paste a link to your GitHub pages homepage (website) + your Github repository (code files) on Canvas under the Tutorial 6 assignment.

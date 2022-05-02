@@ -32,11 +32,12 @@ const images = [
 const initScreen = () => {
     images.forEach((image, idx) => {
         document.querySelector('.cards').innerHTML += `
-            <li class="card">
-                <div class="image" 
-                    style="background-image:url('${image}')"
-                    data-index="${idx}"></div>
-            </li>`;
+        <li class="card">
+            <button class="image" 
+                style="background-image:url('${image}')"
+                data-index=${idx}"
+                aria-label="Displays image ${idx} in the main panel."></button>
+        </li>`;
     });
 };
 

@@ -87,12 +87,12 @@ const tracks = [
 
 
 // Part 1: 
-// This code adds a card for the 6th track in the list (above)
+// This code adds a card for the 1st track in the list (above)
 // How would you use a loop so that a card is generated for every 
 // track in the list?
-const track = tracks[5];
+const track = tracks[4];
 const template = `
-    <div data-index="5" onclick="playSong(event);">
+    <div data-index="0" onclick="playSong(event);">
         <img src="${track.image_url}" />
         <h2>${track.name}</h2>
     </div>`;
