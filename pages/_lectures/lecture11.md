@@ -11,11 +11,11 @@ slides:
    - url: https://docs.google.com/presentation/d/1D__Q35lNNsrbwui_WaPjx810Ef5mC_ArwAB2F4XPK_U/edit?usp=sharing
      title: 2. Functions, events, and control
      
-# videos:
-#    - url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "51:32"
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43990fa0-b2aa-4885-bdbe-ae89015a100f
+     title: Recorded Lecture Video
+     live: 1
+     duration: "47:45"
 
 exercise_url: lecture11.zip
 readings:
