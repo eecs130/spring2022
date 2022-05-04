@@ -8,8 +8,6 @@ due_date: 2022-05-02
 slides:
    - url: https://docs.google.com/presentation/d/15eCdmn-Byj_fRmK2PrkDoV8LA05xttofAPSAygG6xX0/edit?usp=sharing
      title: 1. Variables, expressions, and statements
-   - url: https://docs.google.com/presentation/d/1D__Q35lNNsrbwui_WaPjx810Ef5mC_ArwAB2F4XPK_U/edit?usp=sharing
-     title: 2. Functions, events, and control
      
 videos:
    - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43990fa0-b2aa-4885-bdbe-ae89015a100f

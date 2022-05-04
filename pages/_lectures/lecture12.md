@@ -7,7 +7,7 @@ num: 12
 due_date: 2022-05-04
 exercise_url: lecture12.zip
 slides:
-   - url: ""
+   - url: https://docs.google.com/presentation/d/1D__Q35lNNsrbwui_WaPjx810Ef5mC_ArwAB2F4XPK_U/edit?usp=sharing
      title: Lists, objects & loops
 # videos:
 #    - url: ""
