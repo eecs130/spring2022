@@ -3,12 +3,19 @@ layout: two-column
 show_outline: 1
 show_schedule: 1
 ---
-{% if page.exercise_url %}
-    <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
-        Exercise Files <i class="fas fa-download"></i>
-    </a>
-    {% assign num = num | plus: 1 %}
-{% endif %}
+<div style="margin: 20px 0px 30px 0px;">
+    {% if page.exercise_url %}
+        <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
+            Exercise Files <i class="fas fa-download"></i>
+        </a>
+    {% endif %}
+
+    {% if page.exercise_url_from_class %}
+        <a class="button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url_from_class}}" target="_blank">
+            Code from Class <i class="fas fa-download"></i>
+        </a>
+    {% endif %}
+</div>
 
 {% if page.slides %}
     <h2 id="slides">Slides</h2>  
