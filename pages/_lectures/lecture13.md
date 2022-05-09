@@ -1,14 +1,13 @@
 ---
 layout: module
-title: "Working with Data: AJAX & Web APIs (Part 1)"
+title: "More Practice with JavaScript"
 type: lecture
 draft: 0
 num: 13
 due_date: 2022-05-09
-# exercise_url: lecture13.zip
-# slides:
-#    - url: https://docs.google.com/presentation/d/1lhOFDPcN9s7D6nYFTb7Nr7c-UQAaUKmbVzv_3wL8dNA/edit?usp=sharing
-#      title: "Working with Data: AJAX & Web APIs"
+slides:
+   - url: https://docs.google.com/presentation/d/1jpzHxgncCSOcf37B15rVK_-MQzyQxVOMuWlz2aop-iE/edit?usp=sharing
+     title: "More Practice with JavaScript"
 
 # include_page: "includes/fetch.md"
 
@@ -23,6 +22,7 @@ readings:
      title: "Fetch API Tutorial for Beginners: How to Use Fetch API"
      author: Lazaris, Louis
      date: 2020
+     notes: For Wednesday / HW4
    - url: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
      title: "Using Fetch"
      source: Mozilla Developer Network

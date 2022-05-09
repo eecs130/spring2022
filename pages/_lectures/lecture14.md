@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Working with Data: AJAX & Web APIs (Part 2)"
+title: "Working with Data: AJAX & Web APIs"
 type: lecture
 draft: 0
 num: 14
