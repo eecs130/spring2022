@@ -37,6 +37,10 @@ const getArtist = (term) => {
         of the DOM...`);
 };
 
+const handleTrackClick = (ev) => {
+    const previewUrl = ev.currentTarget.getAttribute('data-preview-track');
+    console.log(previewUrl);
+}
 
 document.querySelector('#search').onkeyup = (ev) => {
     // Number 13 is the "Enter" key on the keyboard

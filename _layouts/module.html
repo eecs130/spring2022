@@ -3,6 +3,8 @@ layout: two-column
 show_outline: 1
 show_schedule: 1
 ---
+
+{% if page.exercise_url or page.exercise_url_from_class %}
 <div style="margin: 20px 0px 30px 0px;">
     {% if page.exercise_url %}
         <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
@@ -16,6 +18,7 @@ show_schedule: 1
         </a>
     {% endif %}
 </div>
+{% endif %}
 
 {% if page.slides %}
     <h2 id="slides">Slides</h2>  

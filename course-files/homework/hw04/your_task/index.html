@@ -46,17 +46,17 @@
             </div>
             <div class="player">
                 <div class="controls">
-                    <i id="rwd" class="fas fa-step-backward"></i>
-                    <i id="play_pause" class="far fa-play-circle"></i>
-                    <i id="ffwd" class="fas fa-step-forward"></i>
+                    <button id="rwd" aria-label="rewind"><i class="fas fa-step-backward"></i></button>
+                    <button id="play_pause" aria-label="play or pause"><i class="far fa-play-circle"></i></button>
+                    <button id="ffwd" aria-label="fast forward"><i class="fas fa-step-forward"></i></button>
                 </div>
                 <div class="slider">
                     <audio preload class="audio">
                         <source src="#" type="audio/mpeg" />
                     </audio>
-                    <span id="time-elapsed">00:00</span>
-                    <input type="range" id="player-time" value="1" max="100" min="1" step="1">
-                    <span id="time-total">00:30</span>
+                    <span id="time-elapsed">0:00</span>
+                    <input aria-label="visually displays how the audio time is advancing" type="range" id="player-time">
+                    <span id="time-total">3:00</span>
                 </div>
                 <audio id="track" src="" />
             </div>

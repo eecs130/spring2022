@@ -23,18 +23,18 @@ const AudioPlayer = (selector, audioFile) => {
 
     this.play = () => {
         console.log('play');
-        playButton.classList.remove('fa-play-circle', 'fa-pause-circle');
+        playButton.querySelector('i').classList.remove('fa-play-circle', 'fa-pause-circle');
         jumpToTime();
         audio.play();
-        playButton.classList.add('fa-pause-circle');
+        playButton.querySelector('i').classList.add('fa-pause-circle');
         
     };
 
     this.pause = () => {
-        playButton.classList.remove('fa-play-circle', 'fa-pause-circle');
+        playButton.querySelector('i').classList.remove('fa-play-circle', 'fa-pause-circle');
         jumpToTime();
         audio.pause();
-        playButton.classList.add('fa-play-circle');
+        playButton.querySelector('i').classList.add('fa-play-circle');
     };
 
     const jumpToTime = () => {
@@ -88,8 +88,8 @@ const AudioPlayer = (selector, audioFile) => {
 
     const resetTime = () => {
         audio.currentTime = 0;
-        playButton.classList.remove('fa-pause-circle')
-        playButton.classList.add('fa-play-circle');
+        playButton.querySelector('i').classList.remove('fa-pause-circle')
+        playButton.querySelector('i').classList.add('fa-play-circle');
         jumpToTime();
     };
 

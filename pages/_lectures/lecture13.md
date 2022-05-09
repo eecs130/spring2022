@@ -2,21 +2,21 @@
 layout: module
 title: "Working with Data: AJAX & Web APIs (Part 1)"
 type: lecture
-draft: 1
+draft: 0
 num: 13
 due_date: 2022-05-09
-exercise_url: lecture13.zip
-slides:
-   - url: https://docs.google.com/presentation/d/1lhOFDPcN9s7D6nYFTb7Nr7c-UQAaUKmbVzv_3wL8dNA/edit?usp=sharing
-     title: "Working with Data: AJAX & Web APIs"
+# exercise_url: lecture13.zip
+# slides:
+#    - url: https://docs.google.com/presentation/d/1lhOFDPcN9s7D6nYFTb7Nr7c-UQAaUKmbVzv_3wL8dNA/edit?usp=sharing
+#      title: "Working with Data: AJAX & Web APIs"
 
 # include_page: "includes/fetch.md"
 
-videos:
-   - url: https://northwestern.zoom.us/rec/share/JnXs2FTCbn7LDPy5C9ZLLqZnptC_bNb-7345wCVrR8jPh3MWfWwkE3ZAaTstwt01.xKjPWU6naHYjtI7t
-     title: Recorded Lecture Video
-     live: 1
-     duration: "53:06"
+# videos:
+#    - url: https://northwestern.zoom.us/rec/share/JnXs2FTCbn7LDPy5C9ZLLqZnptC_bNb-7345wCVrR8jPh3MWfWwkE3ZAaTstwt01.xKjPWU6naHYjtI7t
+#      title: Recorded Lecture Video
+#      live: 1
+#      duration: "53:06"
 
 readings:
    - url: https://www.codeinwp.com/blog/fetch-api-tutorial-for-beginners/
