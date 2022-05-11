@@ -5,16 +5,17 @@ type: lecture
 draft: 0
 num: 14
 due_date: 2022-05-11
-#exercise_url: lecture14.zip
-# slides:
-#    - title: Working with Web Services
-#      url: https://docs.google.com/presentation/d/1rclYLsDpXX0w4DrMJWDEfn1QkUDfzA0rbcVlUN2Ke8A/edit?usp=sharing
+exercise_url: lecture14.zip
+slides:
+   - title: Querying Web APIs
+     url: https://docs.google.com/presentation/d/1BWjK6vOMfU_4Lh9P2KlOPBKPDncRqzo-9z4gzQFCiaQ/edit?usp=sharing
 
 # videos:
-#    - url: https://northwestern.zoom.us/rec/share/iNGdlIUhKiNBFmTL5s21dPz7miFxphzOZ2UFwlF5XbZBlGdK424qd1RMqLZPnbtr.DffsiKECO7A2K9yD
+#    - url: ""
 #      title: Recorded Lecture Video
 #      live: 1
 #      duration: "52:32"
+
 readings:
   - url: https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f
     title: "What is REST — A Simple Explanation for Beginners"
