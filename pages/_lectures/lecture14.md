@@ -10,11 +10,11 @@ slides:
    - title: Querying Web APIs
      url: https://docs.google.com/presentation/d/1BWjK6vOMfU_4Lh9P2KlOPBKPDncRqzo-9z4gzQFCiaQ/edit?usp=sharing
 
-# videos:
-#    - url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "52:32"
+videos:
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6419b746-9128-4804-a3ed-ae92015a33aa
+     title: Recorded Lecture Video
+     live: 1
+     duration: "50:24"
 
 readings:
   - url: https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f
