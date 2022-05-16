@@ -9,4 +9,6 @@ num: 8
 points: 2.5
 ---
 
-TBD. Probably something with data visualization.
+In this week's tutorial, you will be presenting your project vision, and what you have accomplished so far. Please attend your tutorial ready to talk about your project and ready to listen and provide feedback to your classmates.
+
+You will be graded based on attendance and participation.
