@@ -5,10 +5,10 @@ type: lecture
 draft: 0
 num: 16
 due_date: 2022-05-18
-# exercise_url: lecture16.zip
-# slides:
-#    - title: Integrating Third-Party UI Components
-#      url: https://docs.google.com/presentation/d/1VJtIfuA1Qhy_eyCGXqI3lKxP85DbGB_KSV2n6M6enYA/edit?usp=sharing
+exercise_url: lecture16.zip
+slides:
+   - title: Integrating Third-Party UI Components
+     url: https://docs.google.com/presentation/d/1P86dkDqXU-Z0xkGnEqYkm_ohx0eywTWwNaTiRRCBOVU/edit?usp=sharing
 # videos:
 #    - url: ""
 #      title: Recorded Lecture Video
