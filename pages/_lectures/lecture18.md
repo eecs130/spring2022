@@ -6,11 +6,10 @@ draft: 0
 show_schedule: 1
 num: 18
 due_date: 2022-05-25
-# exercise_url: lecture18.zip
-# Good to go!
-# slides:
-#    - url: https://docs.google.com/presentation/d/17bgVf1BB8wpkg8-S4lZxVBbHFliQwQe0KRKALICqa1Q/edit?usp=sharing
-#      title: "Alternative Inputs / Outputs"
+exercise_url: lecture18.zip
+slides:
+   - url: https://docs.google.com/presentation/d/17bgVf1BB8wpkg8-S4lZxVBbHFliQwQe0KRKALICqa1Q/edit?usp=sharing
+     title: "Alternative Inputs / Outputs"
 # videos: 
 #    - url: ""
 #      title: Recorded Lecture Video
