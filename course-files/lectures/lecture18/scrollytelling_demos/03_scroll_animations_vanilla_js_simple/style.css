@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Merriweather+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+/*General styling for structure*/
+body {
+    margin: 0;
+    font-family: "Merriweather Sans", sans-serif;
+    overflow-x: hidden;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    height: 100vh;
+    padding: 50px;
+}
+
+header h2 {
+    font-weight: 400;
+}
+
+.scroll-container {
+    height: 100vh;
+    min-height: 450px;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.scroll-container.c1, .scroll-container.c2 {
+    justify-content: center;
+}
+
+.scroll-container.c3, 
+.scroll-container.c4 {
+    flex-direction: column;
+    /* align-items: flex-start; */
+    justify-content: center;
+}
+.scroll-container.c3 .scroll-element,
+.scroll-container.c4 .scroll-element {
+    margin-bottom: 10px;
+}
+
+.scroll-container.c1 {
+    background-color: #bdd0c4;
+}
+.scroll-container.c2 {
+    background-color: #f5d2d3;
+}
+.scroll-container.c3 {
+    background-color: #9ab7d3;
+}
+.scroll-container.c4 {
+    background-color: #dfccf1;
+}
+
+.scroll-element {
+    height: 100px;
+    width: 100px;
+    background-color: #eaeaea;
+    opacity: 0;
+    transition: all 1s;
+}
+
+
+/************************************************
+* CSS that controls animations / transitions 
+* when "scrolled" class is added by the JS
+* (which happens when the container is in view).
+************************************************/
+
+.scroll-element.scrolled {
+    opacity: 1;
+    background: hotpink;
+}

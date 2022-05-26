@@ -10,11 +10,11 @@ exercise_url: lecture18.zip
 slides:
    - url: https://docs.google.com/presentation/d/17bgVf1BB8wpkg8-S4lZxVBbHFliQwQe0KRKALICqa1Q/edit?usp=sharing
      title: "Alternative Inputs / Outputs"
-# videos: 
-#    - url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "51:59"
+videos: 
+   - url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23e6dc7b-fa6e-4529-8f06-aea0015aa492
+     title: Recorded Lecture Video
+     live: 1
+     duration: "43:20"
 
 ---
 
