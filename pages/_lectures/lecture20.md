@@ -15,7 +15,7 @@ slides:
 #      duration: "38:41"  
 ---
 
-{:.blockquote-no-margin}
+
 > ## Appreciations
 > Please take a moment to thank  / write a note to a peer mentor who helped you in some way (even if you just take 30 seconds to do it). Peer mentors are students too, and most of them do waaaay more than what is officially asked of them in order to support you. And if you're a PM, feel free to thank each other as well :).
 This form is completely anonymous.
