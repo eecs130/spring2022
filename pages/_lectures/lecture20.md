@@ -8,11 +8,11 @@ due_date: 2022-06-01
 slides:
    - url: https://docs.google.com/presentation/d/15JBV_D7ceoMEHZ4w-Wv08Z2VN7l-qFdxzhgEtMmD-nY/edit?usp=sharing
      title: "Domain Names & Analytics"
-# videos:
-#      url: ""
-#      title: Recorded Lecture Video
-#      live: 1
-#      duration: "38:41"  
+videos:
+     url: https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57e751eb-7c30-40c7-896a-aea7015a46bb
+     title: Recorded Lecture Video
+     live: 1
+     duration: "29:53"  
 ---
 
 
